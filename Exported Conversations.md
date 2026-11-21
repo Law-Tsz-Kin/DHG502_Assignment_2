@@ -1,0 +1,2976 @@
+Exorted Conversations
+========================================================================
+A conversation with Herodotus (484–425 BC), exported from HistFig on 2026-11-19
+
+------------------------------------------------------------------------
+
+Exchange 1.1: Simple Search; 0.7 Temperature; Default Prompt
+
+You:
+    Who are you? Tell me about your family.
+
+Herodotus:
+    I am Herodotus of Halicarnassus, son of Lyxes and of Dryo. Halicarnassus is a Dorian city on the coast of Caria, so I carry Dorian blood, though I have written my great work in the Ionian tongue, having lived much among Ionians. Some now call me of Thurii rather, for I ended my days in that city of Italy, whither I went as a settler.
+
+    Of my own house I say little in my writing — it is the deeds of other men I record, not the boasts of my lineage — but since you ask: my father was Lyxes, my mother Dryo, and I had a brother, Theodorus. Of our kin was Panyassis, a poet of no small name, who sang in epic verse the deeds of Heracles; his death at the hands of Lygdamis, the tyrant of our city, was one cause that drove us into exile. We withdrew to Samos, and later, returning, we took our part in casting the tyrant down and setting our city free.
+
+    A man of Halicarnassus, then, but a wanderer by nature and by inquiry. I have journeyed to Egypt and Scythia, to Babylon and Phoenicia, to the Pontus and to Italy, seeing with my eyes and hearing with my ears, so that neither might the deeds of men be erased by time, nor the great works of Hellenes and barbarians lose their renown, and that the causes of their war with one another might be set forth. Where I report what is told me, I say so plainly; but I am not bound to believe it all.
+
+    You will find in my pages how I love to trace descent: I open my history with Croesus, showing how the rule of Sardis passed from the Heracleidai, who held it two-and-twenty generations, five hundred and five years, to the Mermnadai [1]; and I follow even the Alcmaionidai of Athens, for Megacles was son to that Alcmaion who went up to Croesus [5]. Of my own fathers I have written no such account — the genealogy of a traveler from Halicarnassus is less marvelous than the doings of kings. But this I will say: whatever honor I heard of in my family, I have labored to deserve by my work, which I trust will outlast my days.
+
+    Sources:
+
+    [1] The History of Herodotus.txt · part 4
+        others he gained over and made them his friends. Those whom he subdued
+        were the Ionians, the Aiolians, and the Dorians who dwell in Asia; and
+        those whom he made his friends were the Lacedemonians. But before the
+        reign of Croesus all the Hellenes were free; for the expedition of the
+        Kimmerians, which came upon Ionia before the time of Croesus, was not a
+        conquest of the cities but a plundering incursion only. 6
+
+        7. Now the supremacy which had belonged to the Heracleidai came to the
+        family of Croesus, called Mermnadai, in the following manner:—Candaules,
+        whom the Hellenes call Myrsilos, was ruler of Sardis and a descendant of
+        Alcaios, son of Heracles: for Agron, the son of Ninos, the son of Belos,
+        the son of Alcaios, was the first of the Heracleidai who became king of
+        Sardis, and Candaules the son of Myrsos was the last; but those who were
+        kings over this land before Agron, were descendants of Lydos the son
+        of Atys, whence this whole nation was called Lydian, having been before
+        called Meonian. From these the Heracleidai, descended from Heracles and
+        the slave-girl of Iardanos, obtained the government, being charged
+        with it by reason of an oracle; and they reigned for two-and-twenty
+        generations of men, five hundred and five years, handing on the power
+        from father to son, till the time of Candaules the son of Myrsos.
+
+        8. This Candaules then of whom I speak had become passionately in love
+        with his own wife; and having become so, he deemed that his wife was
+        fairer by far than all other women; and thus deeming, to Gyges the son
+        of Daskylos (for he of all his spearmen was the most pleasing to him),
+        to this Gyges, I say, he used to impart as well the more weighty of his
+        affairs as also the beauty of his wife, praising it above measure: and
+        after no long time, since it was destined that evil should happen to
+        Candaules, he said to Gyges as follows: "Gyges, I think that thou dost
+        not believe me when I tell thee of the beauty of my wife, for it
+        happens that men's ears are less apt of belief than their eyes: contrive
+        therefore means by which thou mayest look upon her naked." But he cried
+        aloud and said: "Master, what word of unwisdom is this which thou dost
+        utter, bidding me look upon my mistress naked? When a woman puts off
+        her tunic she puts off her modesty also. Moreover of old time those fair
+        sayings have been found out by men, from which we ought to learn wisdom;
+        and of these one is this,—that each man should look on his own: but I
+        believe indeed that she is of all women the fairest and I entreat thee
+        not to ask of me that which it is not lawful for me to do."
+
+    [2] The History of Herodotus.txt · part 79
+        source of strength. And they educate their children, beginning at five
+        years old and going on till twenty, in three things only, in riding, in
+        shooting, and in speaking the truth: but before the boy is five years
+        old he does not come into the presence of his father, but lives with the
+        women; and it is so done for this reason, that if the child should die
+        while he is being bred up, he may not be the cause of any grief to his
+        father.
+
+        137. I commend this custom of theirs, and also the one which is next
+        to be mentioned, namely that neither the king himself shall put any to
+        death for one cause alone, nor any of the other Persians for one cause
+        alone shall do hurt that is irremediable to any of his own servants; but
+        if after reckoning he finds that the wrongs done are more in number and
+        greater than the services rendered, then only he gives vent to
+        his anger. Moreover they say that no one ever killed his own father or
+        mother, but whatever deeds have been done which seemed to be of this
+        nature, if examined must necessarily, they say, be found to be due
+        either to changelings or to children of adulterous birth; for, say they,
+        it is not reasonable to suppose that the true parent would be killed by
+        his own son.
+
+        138. Whatever things it is not lawful for them to do, these it is not
+        lawful for them even to speak of: and the most disgraceful thing in
+        their estimation is to tell an lie, and next to this to owe money, this
+        last for many other reasons, but especially because it is necessary,
+        they say, for him who owes money, also sometimes to tell lies: and
+        whosoever of the men of the city has leprosy or whiteness of skin, he
+        does not come into a city nor mingle with the other Persians; and they
+        say that he has these diseases because he has offended in some way
+        against the Sun: but a stranger who is taken by these diseases, in many
+        regions they drive out of the country altogether, and also white
+        doves, alleging against them the same cause. And into a river they
+        neither make water nor spit, neither do they wash their hands in it,
+        nor allow any other to do these things, but they reverence rivers very
+        greatly.
+
+        139. This moreover also has chanced to them, which the Persians have
+        themselves failed to notice but I have not failed to do so:—their
+        names, which are formed to correspond with their bodily shapes or their
+        magnificence of station, end all with the same letter, that letter which
+        the Dorians call san and the Ionians sigma; with this you will find, if
+        you examine the matter, that all the Persian names end, not some with
+        this and others with other letters, but all alike.
+
+    [3] The History of Herodotus.txt · part 267
+        royal palaces without any to bear in a message, unless the king happened
+        to be sleeping with his wife; and that it should not be lawful for the
+        king to marry from any other family, but only from those of the men who
+        had made insurrection with him: and about the kingdom they determined
+        this, namely that the man whose horse should first neigh at sunrise
+        in the suburb of the city when they were mounted upon their horses, he
+        should have the kingdom.
+
+        85. Now Dareios had a clever horse-keeper, whose name was Oibares. To
+        this man, when they had left their assembly, Dareios spoke these words:
+        "Oibares, we have resolved to do about the kingdom thus, namely that the
+        man whose horse first neighs at sunrise, when we are mounted upon our
+        horses he shall be king. Now therefore, if thou hast any cleverness,
+        contrive that we may obtain this prize, and not any other man." Oibares
+        replied thus: "If, my master, it depends in truth upon this whether thou
+        be king or no, have confidence so far as concerns this and keep a good
+        heart, for none other shall be king before thee; such charms have I at
+        my command." Then Dareios said: "If then thou hast any such trick, it
+        is time to devise it and not to put things off, for our trial is
+        to-morrow." Oibares therefore hearing this did as follows:—when night
+        was coming on he took one of the mares, namely that one which the horse
+        of Dareios preferred, and this he led into the suburb of the city and
+        tied her up: then he brought to her the horse of Dareios, and having for
+        some time led him round her, making him go so close by so as to touch
+        the mare, at last he let the horse mount.
+
+        86. Now at dawn of day the six came to the place as they had agreed,
+        riding upon their horses; and as they rode through by the suburb of the
+        city, when they came near the place where the mare had been tied up on
+        the former night, the horse of Dareios ran up to the place and neighed;
+        and just when the horse had done this, there came lightning and
+        thunder from a clear sky: and the happening of these things to Dareios
+        consummated his claim, for they seemed to have come to pass by some
+        design, and the others leapt down from their horses and did obeisance to
+        Dareios.
+
+        87. Some say that the contrivance of Oibares was this, but others say
+        as follows (for the story is told by the Persians in both ways), namely
+        that he touched with his hands the parts of this mare and kept his hand
+        hidden in his trousers; and when at sunrise they were about to let
+        the horses go, this Oibares pulled out his hand and applied it to the
+        nostrils of the horse of Dareios; and the horse, perceiving the smell,
+        snorted and neighed.
+
+    [4] The History of Herodotus.txt · part 19
+        the dream spoke to them as follows: "As touching my son, make no further
+        mention of him in this matter; for I will not send him with you, seeing
+        that he is newly married and is concerned now with the affairs of his
+        marriage: but I will send with you chosen men of the Lydians and the
+        whole number of my hunting dogs, and I will give command to those who
+        go, to be as zealous as may be in helping you to destroy the wild beast
+        out of your land."
+
+        37. Thus he made reply, and while the Mysians were being contented with
+        this answer, there came in also the son of Croesus, having heard of the
+        request made by the Mysians: and when Croesus said that he would not
+        send his son with them, the young man spoke as follows: "My father, in
+        times past the fairest and most noble part was allotted to us, to go out
+        continually to wars and to the chase and so have good repute; but
+        now thou hast debarred me from both of these, although thou hast not
+        observed in me any cowardly or faint-hearted spirit. And now with what
+        face must I appear when I go to and from the market-place of the city?
+        What kind of a man shall I be esteemed by the citizens, and what kind of
+        a man shall I be esteemed by my newly-married wife? With what kind of a
+        husband will she think that she is mated? Therefore either let me go to
+        the hunt, or persuade me by reason that these things are better for me
+        done as now they are."
+
+        38. And Croesus made answer thus: "My son, not because I have observed
+        in thee any spirit of cowardice or any other ungracious thing, do I act
+        thus; but a vision of a dream came and stood by me in my sleep and told
+        me that thou shouldest be short-lived, and that thou shouldest perish
+        by a spear-point of iron. With thought of this vision therefore I both
+        urged on this marriage for thee, and I refuse now to send thee upon the
+        matter which is being taken in hand, having a care of thee that I may
+        steal thee from thy fate at least for the period of my own life, if by
+        any means possible for me to do so. For thou art, as it chances, my only
+        son: the other I do not reckon as one, seeing that he is deficient in
+        hearing."
+
+        39. The young man made answer thus: "It may well be forgiven in thee, O
+        my father, that thou shouldest have a care of me after having seen such
+        a vision; but that which thou dost not understand, and in which the
+        meaning of the dream has escaped thee, it is right that I should expound
+        to thee. Thou sayest the dream declared that I should end my life by
+        means of a spear-point of iron: but what hands has a boar, or what
+        spear-point of iron, of which thou art afraid? If the dream had told
+        thee that I should end my life by a tusk, or any other thing which
+        resembles that, it would be right for thee doubtless to do as thou art
+        doing; but it said 'by a spear-point.' Since therefore our fight will
+        not be with men, let me now go."
+
+    [5] The History of Herodotus.txt · part 505
+        son of that Euphorion who (according to the story told in Arcadia)
+        received the Dioscuroi as guests in his house and from thenceforth was
+        wont to entertain all men who came, and Onomastos the son of Agaios
+        of Elis; these, I say, came from Peloponnesus itself: from Athens came
+        Megacles the son of that Alcmaion who went to Croesus, and besides him
+        Hippocleides the son of Tisander, one who surpassed the other Athenians
+        in wealth and in comeliness of form: from Eretria, which at that time
+        was flourishing, came Lysanias, he alone from Euboea: from Thessalia
+        came Diactorides of Crannon, one of the family of the Scopadai: and from
+        the Molossians, Alcon..
+
+        128. So many in number did the wooers prove to be: and when these had
+        come by the appointed day, Cleisthenes first inquired of their native
+        countries and of the descent of each one, and then keeping them for a
+        year he made trial continually both of their manly virtue and of
+        their disposition, training and temper, associating both with each one
+        separately and with the whole number together: and he made trial of them
+        both by bringing out to bodily exercises those of them who were younger,
+        and also especially in the common feast: for during all the time that he
+        kept them he did everything that could be done, and at the same time he
+        entertained them magnificently. Now it chanced that those of the wooers
+        pleased him most who had come from Athens, and of these Hippocleides the
+        son of Tisander was rather preferred, both by reason of manly virtues
+        and also because he was connected by descent with the family of Kypselos
+        at Corinth.
+
+------------------------------------------------------------------------
+
+Exchange 1.2: Agent Search; 0.7 Temperature; Default Prompt
+
+You:
+    Who are you? Tell me about your family.
+
+Herodotus:
+    I am Herodotos, son of Lyxes, born in Halikarnassos, that city of Karia which stands upon the sea, and I have spent my life in the inquiry — the historiē — which I have set down in writing, so that neither the deeds of men may be forgotten by lapse of time, nor the works great and marvellous, which have been produced some by Hellenes and some by Barbarians, may lose their renown; and especially that the causes may be remembered for which these waged war with one another [1].
+
+    Of my family I will tell you what is fitting. My city Halikarnassos is of Dorian race — the men of Halikarnassos being Troizenians by descent — and I have not forgotten that our city was once excluded from the temple of Triopian Apollo, because one Agasicles, a victor in the games, carried away the bronze tripod he had won and hung it in his own house instead of dedicating it to the god, which the other five cities of the Dorian Hexapolis counted a great offence [4]. Whether that exclusion fell upon my own kin I cannot say with certainty, but it is known to me, and it touched my city nearly.
+
+    You may know also that from Halikarnassos came a woman of great renown, Artemisia, daughter of Lygdamis, who on her father's side was of Halikarnassos but of Crete by her mother. She ruled our city and Kos and Nisyros and Kalydna, and furnished five ships for the expedition of Xerxes — ships reputed the best in all the fleet after those of the Sidonians — going to war against Hellas, a woman, impelled by high spirit and manly courage, no necessity being laid upon her [2]. Whether she and I share a bloodline I will not claim, but she is the most famous of our city's name, and I marvel at her still.
+
+    As for myself, I have wandered much — to Egypt, to the Euxine, to Babylon, to the lands of the Scythians — for I hold that human prosperity never continues steadfast, and that those cities which were great in old times have for the most part become small, while those great in my own day were once small; and therefore I make mention of both alike [3]. That inquiry is my family, in a manner of speaking, and it is what I leave behind me.
+
+    Research:
+    1. Searched “Herodotus of Halicarnassus origin family father” · 5 found
+    2. Looked for “Halicarnassus” · 0 found
+    3. Searched “Herodotus speaks of himself in first person exile Thurium” · 5 found
+    4. Looked for “Thurium|Thourioi|Thurii” · 0 found
+    5. Looked for “I, Herodotus|Herodotus of Halicarnassos|Herodotos of Halikarnassos” · 1 found
+    6. Searched “I myself have seen and inquired Herodotus first person account of his own travels” · 5 found
+    7. Searched “my own city Halicarnassos Dorian kinship I am by race” · 5 found
+    8. Looked for “Halikarnassos|Halicarnassos” · 9 found
+
+    Sources:
+
+    [1] The History of Herodotus.txt · part 1
+        THE HISTORY OF HERODOTUS
+
+        By Herodotus
+
+        BOOK I. THE FIRST BOOK OF THE HISTORIES, CALLED CLIO
+
+        This is the Showing forth of the Inquiry of Herodotus of Halicarnassos,
+        to the end that neither the deeds of men may be forgotten by lapse
+        of time, nor the works great and marvellous, which have been produced
+        some by Hellenes and some by Barbarians, may lose their renown; and
+        especially that the causes may be remembered for which these waged war
+        with one another.
+
+        1. Those of the Persians who have knowledge of history declare that
+        the Phenicians first began the quarrel. These, they say, came from that
+        which is called the Erythraian Sea to this of ours; and having settled
+        in the land where they continue even now to dwell, set themselves
+        forthwith to make long voyages by sea. And conveying merchandise of
+        Egypt and of Assyria they arrived at other places and also at Argos; now
+        Argos was at that time in all points the first of the States within that
+        land which is now called Hellas;—the Phenicians arrived then at this
+        land of Argos, and began to dispose of their ship's cargo: and on the
+        fifth or sixth day after they had arrived, when their goods had been
+        almost all sold, there came down to the sea a great company of women,
+        and among them the daughter of the king; and her name, as the Hellenes
+        also agree, was Io the daughter of Inachos. These standing near to the
+        stern of the ship were buying of the wares such as pleased them most,
+        when of a sudden the Phenicians, passing the word from one to another,
+        made a rush upon them; and the greater part of the women escaped by
+        flight, but Io and certain others were carried off. So they put them on
+        board their ship, and forthwith departed, sailing away to Egypt.
+
+        2. In this manner the Persians report that Io came to Egypt, not
+        agreeing therein with the Hellenes, and this they say was the first
+        beginning of wrongs. Then after this, they say, certain Hellenes (but
+        the name of the people they are not able to report) put in to the city
+        of Tyre in Phenicia and carried off the king's daughter Europa;—these
+        would doubtless be Cretans;—and so they were quits for the former
+        injury. After this however the Hellenes, they say, were the authors of
+        the second wrong; for they sailed in to Aia of Colchis and to the river
+        Phasis with a ship of war, and from thence, after they had done the
+        other business for which they came, they carried off the king's daughter
+        Medea: and the king of Colchis sent a herald to the land of Hellas and
+        demanded satisfaction for the rape and to have his daughter back; but
+        they answered that, as the Barbarians had given them no satisfaction for
+        the rape of Io the Argive, so neither would they give satisfaction to
+        the Barbarians for this.
+
+    [2] The History of Herodotus.txt · part 556
+        98. Of those who sailed in the ships the men of most note after the
+        commanders were these,--of Sidon, Tetramnestos son of Anysos; of
+        Tyre, Matten son of Siromos; or Arados, Merbalos son of Agbalos; of
+        Kilikia, Syennesis son of Oromedon; of Lykia, Kyberniscos son of Sicas;
+        of Cyprus, Gorgos son of Chersis and Timonax son of Timagoras; of Caria,
+        Histiaios son of Tymnes, Pigres son of Hysseldomos, and Damasithymos
+        son of Candaules.
+
+        99. Of the rest of the officers I make no mention by the way (since I am
+        not bound to do so), but only of Artemisia, at whom I marvel most that
+        she joined the expedition against Hellas, being a woman; for after her
+        husband died, she holding the power herself, although she had a son
+        who was a young man, went on the expedition impelled by high spirit
+        and manly courage, no necessity being laid upon her. Now her name, as I
+        said, was Artemisia and she was the daughter of Lygdamis, and by descent
+        she was of Halicarnassos on the side of her father, but of Crete by her
+        mother. She was ruler of the men of Halicarnassos and Cos and Nisyros
+        and Calydna, furnishing five ships; and she furnished ships which were
+        of all the fleet reputed the best after those of the Sidonians, and
+        of all his allies she set forth the best counsels to the king. Of the
+        States of which I said that she was leader I declare the people to be
+        all of Dorian race, those of Halicarnassos being Troizenians, and the
+        rest Epidaurians. So far then I have spoken of the naval force.
+
+        100. Then when Xerxes had numbered the army, and it had been arranged in
+        divisions, he had a mind to drive through it himself and inspect it: and
+        afterwards he proceeded so to do; and driving through in a chariot
+        by each nation, he inquired about them and his scribes wrote down the
+        names, until he had gone from end to end both of the horse and of the
+        foot. When he had done this, the ships were drawn down into the sea,
+        and Xerxes changing from his chariot to a ship of Sidon sat down under a
+        golden canopy and sailed along by the prows of the ships, asking of all
+        just as he had done with the land-army, and having the answers written
+        down. And the captains had taken their ships out to a distance of about
+        four hundred feet from the beach and were staying them there, all having
+        turned the prows of the ships towards the shore in an even line and
+        having armed all the fighting-men as for war; and he inspected them
+        sailing within, between the prows of the ships and the beach.
+
+    [3] The History of Herodotus.txt · part 3
+        account of a woman of Lacedemon gathered together a great armament, and
+        then came to Asia and destroyed the dominion of Priam; and that from
+        this time forward they had always considered the Hellenic race to be
+        their enemy: for Asia and the Barbarian races which dwell there the
+        Persians claim as belonging to them; but Europe and the Hellenic race
+        they consider to be parted off from them.
+
+        5. The Persians for their part say that things happened thus; and they
+        conclude that the beginning of their quarrel with the Hellenes was on
+        account of the taking of Ilion: but as regards Io the Phenicians do not
+        agree with the Persians in telling the tale thus; for they deny that
+        they carried her off to Egypt by violent means, and they say on the
+        other hand that when they were in Argos she was intimate with the master
+        of their ship, and perceiving that she was with child, she was ashamed
+        to confess it to her parents, and therefore sailed away with the
+        Phenicians of her own will, for fear of being found out. These are the
+        tales told by the Persians and the Phenicians severally: and concerning
+        these things I am not going to say that they happened thus or thus, 401
+        but when I have pointed to the man who first within my own knowledge
+        began to commit wrong against the Hellenes, I shall go forward further
+        with the story, giving an account of the cities of men, small as well
+        as great: for those which in old times were great have for the most part
+        become small, while those that were in my own time great used in former
+        times to be small: so then, since I know that human prosperity never
+        continues steadfast, I shall make mention of both indifferently.
+
+        6. Croesus was Lydian by race, the son of Alyattes and ruler of the
+        nations which dwell on this side of the river Halys; which river,
+        flowing from the South between the Syrians and the Paphlagonians, runs
+        out towards the North Wind into that Sea which is called the Euxine.
+        This Croesus, first of all the Barbarians of whom we have knowledge,
+        subdued certain of the Hellenes and forced them to pay tribute, while
+        others he gained over and made them his friends. Those whom he subdued
+        were the Ionians, the Aiolians, and the Dorians who dwell in Asia; and
+        those whom he made his friends were the Lacedemonians. But before the
+        reign of Croesus all the Hellenes were free; for the expedition of the
+        Kimmerians, which came upon Ionia before the time of Croesus, was not a
+        conquest of the cities but a plundering incursion only. 6
+
+    [4] The History of Herodotus.txt · part 82
+        among them the Athenians, avoided the name, not wishing to be called
+        Ionians, nay even now I perceive that the greater number of them are
+        ashamed of the name: but these twelve cities not only prided themselves
+        on the name but established a temple of their own, to which they gave
+        the name of Panionion, and they made resolution not to grant a share in
+        it to any other Ionians (nor indeed did any ask to share it except those
+        of Smyrna);
+
+        144, just as the Dorians of that district which is now called the Five
+        Cities but was formerly called the Six Cities, take care not
+        to admit any of the neighbouring Dorians to the temple of Triopion, and
+        even exclude from sharing in it those of their own body who commit any
+        offence as regards the temple. For example, in the games of the Triopian
+        Apollo they used formerly to set bronze tripods as prizes for the
+        victors, and the rule was that those who received them should not carry
+        them out of the temple but dedicate them then and there to the god.
+        There was a man then of Halicarnassos, whose name was Agasicles, who
+        being a victor paid no regard to this rule, but carried away the tripod
+        to his own house and hung it up there upon a nail. On this ground
+        the other five cities, Lindos, Ialysos and Cameiros, Cos and Cnidos,
+        excluded the sixth city Halicarnassos from sharing in the temple.
+
+        145. Upon these they laid this penalty: but as for the Ionians, I think
+        that the reason why they made of themselves twelve cities and would
+        not receive any more into their body, was because when they dwelt in
+        Peloponnesus there were of them twelve divisions, just as now there are
+        twelve divisions of the Achaians who drove the Ionians out: for first,
+        (beginning from the side of Sikyon) comes Pellene, then Aigeira and
+        Aigai, in which last is the river Crathis with a perpetual flow (whence
+        the river of the same name in Italy received its name), and Bura and
+        Helike, to which the Ionians fled for refuge when they were worsted by
+        the Achaians in fight, and Aigion and Rhypes and Patreis and Phareis
+        and Olenos, where is the great river Peiros, and Dyme and Tritaieis, of
+        which the last alone has an inland position. These form now twelve
+        divisions of the Achaians, and in former times they were divisions of
+        the Ionians.
+
+------------------------------------------------------------------------
+
+Exchange 2.1: Agent Search; 0.7 Temperature; Default Prompt
+
+You:
+    Why did Croesus of Lydia decide to attack the Persian Empire, and what happened to him on the pyre?
+
+Herodotus:
+    You ask of Croesus, and this is a tale worth telling, for it shows how the divine turns the minds of men even before their misfortunes come upon them.
+
+    Croesus had been struck by a great grief: his son Atys, whom he loved best of all his children, was slain by Adrastos, the guest whom the king himself had taken into his house and cleansed of blood-guilt. For two years he remained in mourning, deprived of his son. But after that time, the overthrow of Astyages the son of Kyaxares by Cyrus the son of Cambyses, and the growing greatness of the Persians, caused Croesus to cease from his mourning and to turn his care to cutting short the power of the Persians, while it was yet in growth and before they should become great [1].
+
+    Being a man who trusted greatly in divination, he first made trial of the Oracles, sending messengers to Delphi, to Abai of the Phokians, to Dodona, to the shrines of Amphiaraos and Trophonios, to Branchidai of Miletos, and to Ammon in Libya, so that if they were found to have knowledge of the truth, he might ask them secondly whether he should march against the Persians [1]. When the answers agreed in one, declaring that if he marched against the Persians he should destroy a great empire, he was delighted, expecting that he would destroy the kingdom of Cyrus [2]. But there he was deceived, for he did not comprehend the words: he never asked which empire was meant, his own or Cyrus's. He consulted the Oracle a third time, and the Pythian prophetess warned him that when a mule of the Medes should be monarch, he should flee by the pebbly Hermos and not be ashamed to be called a coward [2]. Yet this too he failed to understand, for the mule was Cyrus, born of parents of two different races [5].
+
+    So he marched, and after he had reigned fourteen years and been besieged fourteen days, Sardis fell, and he fulfilled the oracle in that he brought to an end his own great empire [3]. Cyrus caused a great pyre to be built and placed Croesus upon it bound in fetters, with twice seven sons of Lydians. Now as Croesus stood upon the pyre, there came to him, though he was in such evil case, a memory of the saying of Solon, how he had declared with divine inspiration that no one of the living might be called happy. Then he sighed deeply and groaned aloud, and three times he uttered the name of Solon. When Cyrus learned through the interpreters what this meant, he changed his purpose, considering that he himself also was but a man, and that he was delivering another man, not inferior to himself in felicity, alive to the fire; and he feared the requital, reflecting that nothing of what men possess is secure. He bade them extinguish the flames and bring Croesus down, but they could no longer master the fire [3, 4].
+
+    Then the Lydians relate that Croesus, seeing that all were trying in vain to check the flames, cried aloud entreating Apollo, that if any gift given by him had ever been acceptable to the god, he would come to his aid. And suddenly, after clear sky and calm weather, clouds gathered, a storm burst, and a violent shower of rain extinguished the pyre [4]. Cyrus, perceiving that Croesus was a lover of the gods and a good man, brought him down and took him into honour, and Croesus himself confessed that the causer of his march was the god of the Hellenes, who incited him, for no one is so senseless as to choose war rather than peace, since in peace the sons bury their fathers, but in war the fathers bury their sons [4]. And when the Lydians later reproached the god at Delphi, the Pythian prophetess answered that it is impossible even for a god to escape fated destiny, and that Croesus paid the debt due for the sin of his fifth ancestor, though Loxias put off the taking of Sardis by three years and saved him from the fire [5]. So Croesus acknowledged that the fault was his own and not that of the god.
+
+    Research:
+    1. Searched “Croesus reason to attack Persia Cyrus oracle” · 5 found
+    2. Searched “Croesus on the pyre Cyrus rescue” · 5 found
+    3. Searched “Croesus grieved at growth of Cyrus power Astyages overthrown motive to march” · 5 found
+
+    Sources:
+
+    [1] The History of Herodotus.txt · part 22
+        to him that which he had suffered from his guest, and he called moreover
+        upon the Protector of Suppliants and the Guardian of Friendship,
+        naming still the same god, and calling upon him as the Protector of
+        Suppliants because when he received the guest into his house he had
+        been fostering ignorantly the slayer of his son, and as the Guardian of
+        Friendship because having sent him as a protector he had found him the
+        worst of foes.
+
+        45. After this the Lydians came bearing the corpse, and behind it
+        followed the slayer: and he taking his stand before the corpse delivered
+        himself up to Croesus, holding forth his hands and bidding the king slay
+        him over the corpse, speaking of his former misfortune and saying that
+        in addition to this he had now been the destroyer of the man who had
+        cleansed him of it; and that life for him was no more worth living. But
+        Croesus hearing this pitied Adrastos, although he was himself suffering
+        so great an evil of his own, and said to him: "Guest, I have already
+        received from thee all the satisfaction that is due, seeing that thou
+        dost condemn thyself to suffer death; and not thou alone art the cause
+        of this evil, except in so far as thou wert the instrument of it against
+        thine own will, but some one, as I suppose, of the gods, who also long
+        ago signified to me that which was about to be." So Croesus buried his
+        son as was fitting: but Adrastos the son of Gordias, the son of Midas,
+        he who had been the slayer of his own brother and the slayer also of the
+        man who had cleansed him, when silence came of all men round about the
+        tomb, recognising that he was more grievously burdened by misfortune
+        than all men of whom he knew, slew himself upon the grave.
+
+        46. For two years then Croesus remained quiet in his mourning,
+        because he was deprived of his son: but after this period of time the
+        overthrowing of the rule of Astyages the son of Kyaxares by Cyrus
+        the son of Cambyses, and the growing greatness of the Persians caused
+        Croesus to cease from his mourning, and led him to a care of cutting
+        short the power of the Persians, if by any means he might, while yet it
+        was in growth and before they should have become great.
+
+        So having formed this design he began forthwith to make trial of
+        the Oracles, both those of the Hellenes and that in Libya, sending
+        messengers some to one place and some to another, some to go to Delphi,
+        others to Abai of the Phokians, and others to Dodona; and some were
+        sent to the shrine of Amphiaraos and to that of Trophonios, others to
+        Branchidai in the land of Miletos: these are the Oracles of the Hellenes
+        to which Croesus sent messengers to seek divination; and others he sent
+        to the shrine of Ammon in Libya to inquire there. Now he was sending the
+        messengers abroad to the end that he might try the Oracles and find
+        out what knowledge they had, so that if they should be found to have
+        knowledge of the truth, he might send and ask them secondly whether he
+        should attempt to march against the Persians.
+
+    [2] The History of Herodotus.txt · part 26
+        Croesus. Moreover Croesus dedicated the ornaments from his wife's neck
+        and her girdles.
+
+        52. These are the things which he sent to Delphi; and to Amphiaraos,
+        having heard of his valour and of his evil fate, he dedicated a shield
+        made altogether of gold throughout, and a spear all of solid gold, the
+        shaft being of gold also as well as the two points, which offerings
+        were both remaining even to my time at Thebes in the temple of Ismenian
+        Apollo.
+
+        53. To the Lydians who were to carry these gifts to the temples Croesus
+        gave charge that they should ask the Oracles this question also,—whether
+        Croesus should march against the Persians, and if so, whether he should
+        join with himself any army of men as his friends. And when the Lydians
+        had arrived at the places to which they had been sent and had dedicated
+        the votive offerings, they inquired of the Oracles and said: "Croesus,
+        king of the Lydians and of other nations, considering that these are
+        the only true Oracles among men, presents to you gifts such as your
+        revelations deserve, and asks you again now whether he shall march
+        against the Persians, and if so, whether he shall join with himself any
+        army of men as allies." They inquired thus, and the answers of both
+        the Oracles agreed in one, declaring to Croesus that if he should
+        march against the Persians he should destroy a great empire: and they
+        counselled him to find out the most powerful of the Hellenes and join
+        these with himself as friends.
+
+        54. So when the answers were brought back and Croesus heard them, he
+        was delighted with the oracles, and expecting that he would certainly
+        destroy the kingdom of Cyrus, he sent again to Pytho, and presented
+        to the men of Delphi, having ascertained the number of them, two staters
+        of gold for each man: and in for this the Delphians gave to Croesus and
+        to the Lydians precedence in consulting the Oracle and freedom from all
+        payments, and the right to front seats at the games, with this privilege
+        also for all time, that any one of them who wished should be allowed to
+        become a citizen of Delphi.
+
+        55. And having made presents to the men of Delphi, Croesus consulted the
+        Oracle the third time; for from the time when he learnt the truth of
+        the Oracle, he made abundant use of it. And consulting the Oracle
+        he inquired whether his monarchy would endure for a long time. And the
+        Pythian prophetess answered him thus:
+
+        "But when it cometh to pass that a mule of the Medes shall be monarch
+        Then by the pebbly Hermos, O Lydian delicate-footed,
+        Flee and stay not, and be not ashamed to be callèd a coward."
+
+    [3] The History of Herodotus.txt · part 47
+        him coming on, cared nothing for it because of the misfortune which was
+        upon him, and to him it was indifferent that he should be slain by the
+        stroke; but this voiceless son, when he saw the Persian coming on, by
+        reason of terror and affliction burst the bonds of his utterance and
+        said: "Man, slay not Croesus." This son, I say, uttered voice then first
+        of all, but after this he continued to use speech for the whole time of
+        his life.
+
+        86. The Persians then had obtained possession of Sardis and had taken
+        Croesus himself prisoner, after he had reigned fourteen years and had
+        been besieged fourteen days, having fulfilled the oracle in that he had
+        brought to an end his own great empire. So the Persians having taken him
+        brought him into the presence of Cyrus: and he piled up a great pyre
+        and caused Croesus to go up upon it bound in fetters, and along with him
+        twice seven sons of Lydians, whether it was that he meant to dedicate
+        this offering as first-fruits of his victory to some god, or whether
+        he desired to fulfil a vow, or else had heard that Croesus was a
+        god-fearing man and so caused him to go up on the pyre because he wished
+        to know if any one of the divine powers would save him, so that he
+        should not be burnt alive. He, they say, did this; but to Croesus as
+        he stood upon the pyre there came, although he was in such evil case, a
+        memory of the saying of Solon, how he had said with divine inspiration
+        that no one of the living might be called happy. And when this thought
+        came into his mind, they say that he sighed deeply and groaned aloud,
+        having been for long silent, and three times he uttered the name of
+        Solon. Hearing this, Cyrus bade the interpreters ask Croesus who was
+        this person on whom he called; and they came near and asked. And
+        Croesus for a time, it is said, kept silence when he was asked this,
+        but afterwards being pressed he said: "One whom more than much wealth I
+        should have desired to have speech with all monarchs." Then, since his
+        words were of doubtful import, they asked again of that which he said;
+        and as they were urgent with him and gave him no peace, he told how once
+        Solon an Athenian had come, and having inspected all his wealth had made
+        light of it, with such and such words; and how all had turned out for
+        him according as Solon had said, not speaking at all especially with
+        a view to Croesus himself, but with a view to the whole human race
+        and especially those who seem to themselves to be happy men. And while
+        Croesus related these things, already the pyre was lighted and the edges
+        of it round about were burning. Then they say that Cyrus, hearing
+        from the interpreters what Croesus had said, changed his purpose
+        and considered that he himself also was but a man, and that he was
+        delivering another man, who had been not inferior to himself in
+        felicity, alive to the fire; and moreover he feared the requital, and
+        reflected that there was nothing of that which men possessed which was
+        secure;
+
+    [4] The History of Herodotus.txt · part 48
+        of it round about were burning. Then they say that Cyrus, hearing
+        from the interpreters what Croesus had said, changed his purpose
+        and considered that he himself also was but a man, and that he was
+        delivering another man, who had been not inferior to himself in
+        felicity, alive to the fire; and moreover he feared the requital, and
+        reflected that there was nothing of that which men possessed which was
+        secure; therefore, they say, he ordered them to extinguish as quickly as
+        possible the fire that was burning, and to bring down Croesus and those
+        who were with him from the pyre; and they using endeavours were not able
+        now to get the mastery of the flames.
+
+        87. Then it is related by the Lydians that Croesus, having learned how
+        Cyrus had changed his mind, and seeing that every one was trying to put
+        out the fire but that they were no longer able to check it, cried aloud
+        entreating Apollo that if any gift had ever been given by him which had
+        been acceptable to the god, he would come to his aid and rescue him from
+        the evil which was now upon him. So he with tears entreated the god, and
+        suddenly, they say, after clear sky and calm weather clouds gathered and
+        a storm burst, and it rained with a very violent shower, and the pyre
+        was extinguished. Then Cyrus, having perceived that Croesus was a lover
+        of the gods and a good man, caused him to be brought down from the pyre
+        and asked him as follows: "Croesus, tell me who of all men was it who
+        persuaded thee to march upon my land and so to become an enemy to me
+        instead of a friend?" and he said: "O king, I did this to thy felicity
+        and to my own misfortune, and the causer of this was the god of the
+        Hellenes, who incited me to march with my army. For no one is so
+        senseless as to choose of his own will war rather peace, since in peace
+        the sons bury their fathers, but in war the fathers bury their sons.
+        But it was pleasing, I suppose, to the divine powers that these things
+        should come to pass thus."
+
+        88. So he spoke, and Cyrus loosed his bonds and caused him to sit near
+        himself and paid to him much regard, and he marvelled both himself and
+        all who were about him at the sight of Croesus. And Croesus wrapt in
+        thought was silent; but after a time, turning round and seeing the
+        Persians plundering the city of the Lydians, he said: "O king, must I
+        say to thee that which I chance to have in my thought, or must I keep
+        silent in this my present fortune?" Then Cyrus bade him say boldly
+        whatsoever he desired; and he asked him saying: "What is the business
+        that this great multitude of men is doing with so much eagerness?" and
+        he said: "They are plundering thy city and carrying away thy wealth."
+        And Croesus answered: "Neither is it my city that they are plundering
+        nor my wealth which they are carrying away; for I have no longer any
+        property in these things: but it is thy wealth that they are carrying
+        and driving away."
+
+    [5] The History of Herodotus.txt · part 51
+        of the temple and to ask the god whether he felt no shame that he had
+        incited Croesus by his prophecies to march upon the Persians, persuading
+        him that he should bring to an end the empire of Cyrus, seeing that
+        these were the first-fruits of spoil which he had won from it,—at the
+        same time displaying the fetters. This they were to ask, and moreover
+        also whether it was thought right by the gods of the Hellenes to
+        practice ingratitude.
+
+        91. When the Lydians came and repeated that which they were enjoined to
+        say, it is related that the Pythian prophetess spoke as follows: "The
+        fated destiny it is impossible even for a god to escape. And Croesus
+        paid the debt due for the sin of his fifth ancestor, who being one of
+        the spearmen of the Heracleidai followed the treacherous device of a
+        woman, and having slain his master took possession of his royal dignity,
+        which belonged not to him of right. And although Loxias eagerly desired
+        that the calamity of Sardis might come upon the sons of Croesus and not
+        upon Croesus himself, it was not possible for him to draw the Destinies
+        aside from their course; but so much as these granted he brought to
+        pass, and gave it as a gift to Croesus: for he put off the taking of
+        Sardis by three years; and let Croesus be assured that he was taken
+        prisoner later by these years than the fated time: moreover secondly, he
+        assisted him when he was about to be burnt. And as to the oracle which
+        was given, Croesus finds fault with good ground: for Loxias told him
+        beforehand that if he should march upon the Persians he should destroy
+        a great empire: and he upon hearing this, if he wished to take counsel
+        well, ought to have sent and asked further whether the god meant his
+        own empire or that of Cyrus: but as he did not comprehend that which was
+        uttered and did not ask again, let him pronounce himself to be the cause
+        of that which followed. To him also when he consulted the Oracle for
+        the last time Loxias said that which he said concerning a mule; but this
+        also he failed to comprehend: for Cyrus was in fact this mule, seeing
+        that he was born of parents who were of two different races, his mother
+        being of nobler descent and his father of less noble: for she was a
+        Median woman, daughter of Astyages and king of the Medes, but he was a
+        Persian, one of a race subject to the Medes, and being inferior in all
+        respects he was the husband of one who was his royal mistress." Thus the
+        Pythian prophetess replied to the Lydians, and they brought the answer
+        back to Sardis and repeated it to Croesus; and he, when he heard it,
+        acknowledged that the fault was his own and not that of the god. With
+        regard then to the empire of Croesus and the first conquest of Ionia, it
+        happened thus.
+
+------------------------------------------------------------------------
+
+Exchange 2.2: Agent Search; 0.1 Temperature; Default Prompt
+
+You:
+    Why did Croesus of Lydia decide to attack the Persian Empire, and what happened to him on the pyre?
+
+Herodotus:
+    You ask of Croesus, and it is a tale worth the telling, for it shows how the divine signs to men who do not understand them.
+
+    After the death of his son Atys, Croesus remained in mourning for two years. But then came the overthrow of Astyages by Cyrus son of Cambyses, and the growing greatness of the Persians. This roused him from his grief and led him to take thought how he might cut short the power of the Persians while it was still in growth, before they should become great [1]. Being a man who trusted much in divination, he first made trial of the oracles — those of the Hellenes and that in Libya — sending messengers to Delphi, to Abai, to Dodona, to Amphiaraos, to Trophonios, to Branchidai, and to Ammon, so that if they proved to have true knowledge he might ask them secondly whether he should march against the Persians [1]. When the answers came back from Delphi and from Amphiaraos, both agreed, declaring that if he marched against the Persians he would destroy a great empire, and counselling him to find out the most powerful of the Hellenes and make them his friends [2]. Croesus, hearing this, was delighted, for he expected that he would destroy the kingdom of Cyrus [2]. He also asked whether his monarchy would endure long, and the Pythia answered that when a mule of the Medes should be monarch, he, the delicate-footed Lydian, should flee by the pebbly Hermos and not be ashamed to be called a coward [2]. But he did not comprehend either saying.
+
+    So he marched, and it fell out otherwise than he hoped. Sardis was taken, and Croesus himself was captured after reigning fourteen years and being besieged fourteen days — thus fulfilling the oracle, for it was his own great empire that he brought to an end [3]. Cyrus piled up a great pyre and set Croesus upon it, bound in fetters, with twice seven sons of Lydians — whether as first-fruits to some god, or to fulfil a vow, or because he wished to see if any divine power would save so god-fearing a man [3]. Then, as he stood upon the pyre, there came to Croesus, though in such evil case, a memory of the saying of Solon the Athenian, how he had declared with divine inspiration that no one of the living might be called happy. And he sighed deeply and groaned aloud, and three times he uttered the name of Solon [3]. Cyrus, hearing through the interpreters what this meant, changed his purpose, considering that he himself also was but a man, and that he was burning alive another man not inferior to himself in felicity; and he feared the requital, reflecting that nothing of what men possess is secure. He bade them quench the flames and bring Croesus down, but they could no longer master the fire [4].
+
+    Then the Lydians relate that Croesus, seeing all their efforts fail, cried aloud to Apollo, entreating him, if any gift given by men had ever been acceptable to the god, to come to his aid. And suddenly, after clear sky and calm, clouds gathered, a storm burst, and a violent shower of rain extinguished the pyre [4]. Cyrus, perceiving that Croesus was a lover of the gods and a good man, brought him down and set him near himself, and Croesus said that the causer of his march was the god of the Hellenes, who incited him; for no one is so senseless as to choose war rather than peace, since in peace the sons bury their fathers, but in war the fathers bury their sons [4].
+
+    Yet let it be understood that the god was not at fault. When Croesus reproached the Pythia, she answered that it is impossible even for a god to escape fated destiny, and that Croesus paid the debt for the sin of his fifth ancestor, who slew his master and took a throne not his by right. Loxias desired that the calamity fall on the sons of Croesus and not on Croesus himself, but the Destinies could not be turned aside; so much as they granted, he brought to pass — putting off the taking of Sardis by three years, and assisting him when about to be burnt. As for the oracle, Croesus ought to have asked further whether the god meant his own empire or that of Cyrus; since he did not comprehend and did not ask again, let him pronounce himself the cause of what followed. And the mule was Cyrus, born of parents of two different races — a Median mother of royal blood and a Persian father of a subject race [5]. And Croesus, when he heard it, acknowledged that the fault was his own and not the god's [5].
+
+    Research:
+    1. Searched “Croesus decides to attack Persia Cyrus oracle Delphi” · 5 found
+    2. Searched “Croesus on the pyre Cyrus rain Apollo saves” · 5 found
+
+    Sources:
+
+    [1] The History of Herodotus.txt · part 22
+        to him that which he had suffered from his guest, and he called moreover
+        upon the Protector of Suppliants and the Guardian of Friendship,
+        naming still the same god, and calling upon him as the Protector of
+        Suppliants because when he received the guest into his house he had
+        been fostering ignorantly the slayer of his son, and as the Guardian of
+        Friendship because having sent him as a protector he had found him the
+        worst of foes.
+
+        45. After this the Lydians came bearing the corpse, and behind it
+        followed the slayer: and he taking his stand before the corpse delivered
+        himself up to Croesus, holding forth his hands and bidding the king slay
+        him over the corpse, speaking of his former misfortune and saying that
+        in addition to this he had now been the destroyer of the man who had
+        cleansed him of it; and that life for him was no more worth living. But
+        Croesus hearing this pitied Adrastos, although he was himself suffering
+        so great an evil of his own, and said to him: "Guest, I have already
+        received from thee all the satisfaction that is due, seeing that thou
+        dost condemn thyself to suffer death; and not thou alone art the cause
+        of this evil, except in so far as thou wert the instrument of it against
+        thine own will, but some one, as I suppose, of the gods, who also long
+        ago signified to me that which was about to be." So Croesus buried his
+        son as was fitting: but Adrastos the son of Gordias, the son of Midas,
+        he who had been the slayer of his own brother and the slayer also of the
+        man who had cleansed him, when silence came of all men round about the
+        tomb, recognising that he was more grievously burdened by misfortune
+        than all men of whom he knew, slew himself upon the grave.
+
+        46. For two years then Croesus remained quiet in his mourning,
+        because he was deprived of his son: but after this period of time the
+        overthrowing of the rule of Astyages the son of Kyaxares by Cyrus
+        the son of Cambyses, and the growing greatness of the Persians caused
+        Croesus to cease from his mourning, and led him to a care of cutting
+        short the power of the Persians, if by any means he might, while yet it
+        was in growth and before they should have become great.
+
+        So having formed this design he began forthwith to make trial of
+        the Oracles, both those of the Hellenes and that in Libya, sending
+        messengers some to one place and some to another, some to go to Delphi,
+        others to Abai of the Phokians, and others to Dodona; and some were
+        sent to the shrine of Amphiaraos and to that of Trophonios, others to
+        Branchidai in the land of Miletos: these are the Oracles of the Hellenes
+        to which Croesus sent messengers to seek divination; and others he sent
+        to the shrine of Ammon in Libya to inquire there. Now he was sending the
+        messengers abroad to the end that he might try the Oracles and find
+        out what knowledge they had, so that if they should be found to have
+        knowledge of the truth, he might send and ask them secondly whether he
+        should attempt to march against the Persians.
+
+    [2] The History of Herodotus.txt · part 26
+        Croesus. Moreover Croesus dedicated the ornaments from his wife's neck
+        and her girdles.
+
+        52. These are the things which he sent to Delphi; and to Amphiaraos,
+        having heard of his valour and of his evil fate, he dedicated a shield
+        made altogether of gold throughout, and a spear all of solid gold, the
+        shaft being of gold also as well as the two points, which offerings
+        were both remaining even to my time at Thebes in the temple of Ismenian
+        Apollo.
+
+        53. To the Lydians who were to carry these gifts to the temples Croesus
+        gave charge that they should ask the Oracles this question also,—whether
+        Croesus should march against the Persians, and if so, whether he should
+        join with himself any army of men as his friends. And when the Lydians
+        had arrived at the places to which they had been sent and had dedicated
+        the votive offerings, they inquired of the Oracles and said: "Croesus,
+        king of the Lydians and of other nations, considering that these are
+        the only true Oracles among men, presents to you gifts such as your
+        revelations deserve, and asks you again now whether he shall march
+        against the Persians, and if so, whether he shall join with himself any
+        army of men as allies." They inquired thus, and the answers of both
+        the Oracles agreed in one, declaring to Croesus that if he should
+        march against the Persians he should destroy a great empire: and they
+        counselled him to find out the most powerful of the Hellenes and join
+        these with himself as friends.
+
+        54. So when the answers were brought back and Croesus heard them, he
+        was delighted with the oracles, and expecting that he would certainly
+        destroy the kingdom of Cyrus, he sent again to Pytho, and presented
+        to the men of Delphi, having ascertained the number of them, two staters
+        of gold for each man: and in for this the Delphians gave to Croesus and
+        to the Lydians precedence in consulting the Oracle and freedom from all
+        payments, and the right to front seats at the games, with this privilege
+        also for all time, that any one of them who wished should be allowed to
+        become a citizen of Delphi.
+
+        55. And having made presents to the men of Delphi, Croesus consulted the
+        Oracle the third time; for from the time when he learnt the truth of
+        the Oracle, he made abundant use of it. And consulting the Oracle
+        he inquired whether his monarchy would endure for a long time. And the
+        Pythian prophetess answered him thus:
+
+        "But when it cometh to pass that a mule of the Medes shall be monarch
+        Then by the pebbly Hermos, O Lydian delicate-footed,
+        Flee and stay not, and be not ashamed to be callèd a coward."
+
+    [3] The History of Herodotus.txt · part 47
+        him coming on, cared nothing for it because of the misfortune which was
+        upon him, and to him it was indifferent that he should be slain by the
+        stroke; but this voiceless son, when he saw the Persian coming on, by
+        reason of terror and affliction burst the bonds of his utterance and
+        said: "Man, slay not Croesus." This son, I say, uttered voice then first
+        of all, but after this he continued to use speech for the whole time of
+        his life.
+
+        86. The Persians then had obtained possession of Sardis and had taken
+        Croesus himself prisoner, after he had reigned fourteen years and had
+        been besieged fourteen days, having fulfilled the oracle in that he had
+        brought to an end his own great empire. So the Persians having taken him
+        brought him into the presence of Cyrus: and he piled up a great pyre
+        and caused Croesus to go up upon it bound in fetters, and along with him
+        twice seven sons of Lydians, whether it was that he meant to dedicate
+        this offering as first-fruits of his victory to some god, or whether
+        he desired to fulfil a vow, or else had heard that Croesus was a
+        god-fearing man and so caused him to go up on the pyre because he wished
+        to know if any one of the divine powers would save him, so that he
+        should not be burnt alive. He, they say, did this; but to Croesus as
+        he stood upon the pyre there came, although he was in such evil case, a
+        memory of the saying of Solon, how he had said with divine inspiration
+        that no one of the living might be called happy. And when this thought
+        came into his mind, they say that he sighed deeply and groaned aloud,
+        having been for long silent, and three times he uttered the name of
+        Solon. Hearing this, Cyrus bade the interpreters ask Croesus who was
+        this person on whom he called; and they came near and asked. And
+        Croesus for a time, it is said, kept silence when he was asked this,
+        but afterwards being pressed he said: "One whom more than much wealth I
+        should have desired to have speech with all monarchs." Then, since his
+        words were of doubtful import, they asked again of that which he said;
+        and as they were urgent with him and gave him no peace, he told how once
+        Solon an Athenian had come, and having inspected all his wealth had made
+        light of it, with such and such words; and how all had turned out for
+        him according as Solon had said, not speaking at all especially with
+        a view to Croesus himself, but with a view to the whole human race
+        and especially those who seem to themselves to be happy men. And while
+        Croesus related these things, already the pyre was lighted and the edges
+        of it round about were burning. Then they say that Cyrus, hearing
+        from the interpreters what Croesus had said, changed his purpose
+        and considered that he himself also was but a man, and that he was
+        delivering another man, who had been not inferior to himself in
+        felicity, alive to the fire; and moreover he feared the requital, and
+        reflected that there was nothing of that which men possessed which was
+        secure;
+
+    [4] The History of Herodotus.txt · part 48
+        of it round about were burning. Then they say that Cyrus, hearing
+        from the interpreters what Croesus had said, changed his purpose
+        and considered that he himself also was but a man, and that he was
+        delivering another man, who had been not inferior to himself in
+        felicity, alive to the fire; and moreover he feared the requital, and
+        reflected that there was nothing of that which men possessed which was
+        secure; therefore, they say, he ordered them to extinguish as quickly as
+        possible the fire that was burning, and to bring down Croesus and those
+        who were with him from the pyre; and they using endeavours were not able
+        now to get the mastery of the flames.
+
+        87. Then it is related by the Lydians that Croesus, having learned how
+        Cyrus had changed his mind, and seeing that every one was trying to put
+        out the fire but that they were no longer able to check it, cried aloud
+        entreating Apollo that if any gift had ever been given by him which had
+        been acceptable to the god, he would come to his aid and rescue him from
+        the evil which was now upon him. So he with tears entreated the god, and
+        suddenly, they say, after clear sky and calm weather clouds gathered and
+        a storm burst, and it rained with a very violent shower, and the pyre
+        was extinguished. Then Cyrus, having perceived that Croesus was a lover
+        of the gods and a good man, caused him to be brought down from the pyre
+        and asked him as follows: "Croesus, tell me who of all men was it who
+        persuaded thee to march upon my land and so to become an enemy to me
+        instead of a friend?" and he said: "O king, I did this to thy felicity
+        and to my own misfortune, and the causer of this was the god of the
+        Hellenes, who incited me to march with my army. For no one is so
+        senseless as to choose of his own will war rather peace, since in peace
+        the sons bury their fathers, but in war the fathers bury their sons.
+        But it was pleasing, I suppose, to the divine powers that these things
+        should come to pass thus."
+
+        88. So he spoke, and Cyrus loosed his bonds and caused him to sit near
+        himself and paid to him much regard, and he marvelled both himself and
+        all who were about him at the sight of Croesus. And Croesus wrapt in
+        thought was silent; but after a time, turning round and seeing the
+        Persians plundering the city of the Lydians, he said: "O king, must I
+        say to thee that which I chance to have in my thought, or must I keep
+        silent in this my present fortune?" Then Cyrus bade him say boldly
+        whatsoever he desired; and he asked him saying: "What is the business
+        that this great multitude of men is doing with so much eagerness?" and
+        he said: "They are plundering thy city and carrying away thy wealth."
+        And Croesus answered: "Neither is it my city that they are plundering
+        nor my wealth which they are carrying away; for I have no longer any
+        property in these things: but it is thy wealth that they are carrying
+        and driving away."
+
+    [5] The History of Herodotus.txt · part 51
+        of the temple and to ask the god whether he felt no shame that he had
+        incited Croesus by his prophecies to march upon the Persians, persuading
+        him that he should bring to an end the empire of Cyrus, seeing that
+        these were the first-fruits of spoil which he had won from it,—at the
+        same time displaying the fetters. This they were to ask, and moreover
+        also whether it was thought right by the gods of the Hellenes to
+        practice ingratitude.
+
+        91. When the Lydians came and repeated that which they were enjoined to
+        say, it is related that the Pythian prophetess spoke as follows: "The
+        fated destiny it is impossible even for a god to escape. And Croesus
+        paid the debt due for the sin of his fifth ancestor, who being one of
+        the spearmen of the Heracleidai followed the treacherous device of a
+        woman, and having slain his master took possession of his royal dignity,
+        which belonged not to him of right. And although Loxias eagerly desired
+        that the calamity of Sardis might come upon the sons of Croesus and not
+        upon Croesus himself, it was not possible for him to draw the Destinies
+        aside from their course; but so much as these granted he brought to
+        pass, and gave it as a gift to Croesus: for he put off the taking of
+        Sardis by three years; and let Croesus be assured that he was taken
+        prisoner later by these years than the fated time: moreover secondly, he
+        assisted him when he was about to be burnt. And as to the oracle which
+        was given, Croesus finds fault with good ground: for Loxias told him
+        beforehand that if he should march upon the Persians he should destroy
+        a great empire: and he upon hearing this, if he wished to take counsel
+        well, ought to have sent and asked further whether the god meant his
+        own empire or that of Cyrus: but as he did not comprehend that which was
+        uttered and did not ask again, let him pronounce himself to be the cause
+        of that which followed. To him also when he consulted the Oracle for
+        the last time Loxias said that which he said concerning a mule; but this
+        also he failed to comprehend: for Cyrus was in fact this mule, seeing
+        that he was born of parents who were of two different races, his mother
+        being of nobler descent and his father of less noble: for she was a
+        Median woman, daughter of Astyages and king of the Medes, but he was a
+        Persian, one of a race subject to the Medes, and being inferior in all
+        respects he was the husband of one who was his royal mistress." Thus the
+        Pythian prophetess replied to the Lydians, and they brought the answer
+        back to Sardis and repeated it to Croesus; and he, when he heard it,
+        acknowledged that the fault was his own and not that of the god. With
+        regard then to the empire of Croesus and the first conquest of Ionia, it
+        happened thus.
+
+------------------------------------------------------------------------
+
+Exchange 2.3: Agent Search; 1.2 Temperature; Default Prompt
+
+You:
+    Why did Croesus of Lydia decide to attack the Persian Empire, and what happened to him on the pyre?
+
+Herodotus:
+    You ask of Croesus, whose story I have set down in my work so that the greatness of things done by men may not be dimmed by time — and this part of it is full of instruction for all who seem to themselves to be happy men.
+
+    He did not leap to war in idleness. He had first suffered the greatest of misfortunes, the death of his son, and for two years he kept silence and mourned; but then came the overthrow of Astyages by Cyrus and the growing greatness of the Persians, and this drew him from his mourning and set him to planning how he might cut short Persian power while it was still in growth [3]. Being in all things careful and prudent, as he supposed, he first made trial of the oracles of the Hellenes and of Ammon in Libya, that he might learn which of them spoke truth; and when the answers proved them true, he asked secondly whether he should march against the Persians and whether he should take allies with him [3, 4]. Now both oracles answered as with one voice: that if he should march against the Persians, he would destroy a great empire, and they counselled him to find the most powerful of the Hellenes as friends [4]. When he heard this he was delighted, for he expected that it was the empire of Cyrus that was meant, and from that time on he made abundant use of the oracle [4]. But see how men lose themselves! He did not comprehend that which was uttered; it was his own empire he was to destroy, and Cyrus was in truth the "mule" the Pythian foretold, born of parents of two different races — a Median woman, daughter of a king, and a Persian of a subject race [5]. When the Lydians afterward bore him up before the god and showed the fetters themselves, the Pythian answered that fated destiny not even a god can escape: Croesus paid the debt of the sin of his fifth ancestor, who slew his master; and yet Loxias delayed the fall of Sardis by three years and came to his aid upon the pyre [5]. When the answer was brought back, Croesus acknowledged that the fault was his own and not the god's [5].
+
+    As for the pyre itself: Sardis was taken after he had reigned fourteen years and been besieged fourteen days; Cyrus piled a great pyre and set Croesus upon it, bound in fetters, with twice seven sons of Lydians — whether to dedicate the first-fruits of victory to a god, or to fulfill a vow, or because he had heard Croesus was god-fearing and wished to see if any divine power would save him from being burnt alive [1]. There, standing on the pyre, remembering the saying of Solon, Croesus sighed deeply and cried the name of Solon three times. Cyrus, when the interpreters told him what this meant, reflected that he himself was but a man, and that he was delivering another man, not inferior to himself in felicity, alive to the fire; and he feared the requital, for there is nothing among men's possessions which is secure. So he bade them extinguish the flames with all speed — but they were no longer able to get the mastery of the fire [1, 2]. Then Croesus, seeing every man working to no purpose, cried aloud to Apollo, calling upon him to aid him if any of his gifts had ever been acceptable; and suddenly, from a clear sky and calm, clouds gathered and a storm burst with violent rain, and the pyre was put out [2]. Then Cyrus brought him down and asked him who it was that had persuaded him to march upon his land; and Croesus said it was the god of the Hellenes who incited him, and spoke that saying which I hold worth the telling: "No one is so senseless as to choose of his own will war rather than peace, since in peace the sons bury their fathers, but in war the fathers bury their sons" [2]. Cyrus loosed his bonds and seated him near himself and honoured him greatly [2]. Thus the man whom men called the most wealthy in the world came to know, at the edge of death, what Solon had taught: that none among the living should be counted happy until his whole life's end is seen.
+
+    Research:
+    1. Searched “Croesus decided to attack Persia Cyrus oracle Delphi” · 5 found
+    2. Searched “Croesus on the pyre fire rain Apollo saved” · 5 found
+
+    Sources:
+
+    [1] The History of Herodotus.txt · part 47
+        him coming on, cared nothing for it because of the misfortune which was
+        upon him, and to him it was indifferent that he should be slain by the
+        stroke; but this voiceless son, when he saw the Persian coming on, by
+        reason of terror and affliction burst the bonds of his utterance and
+        said: "Man, slay not Croesus." This son, I say, uttered voice then first
+        of all, but after this he continued to use speech for the whole time of
+        his life.
+
+        86. The Persians then had obtained possession of Sardis and had taken
+        Croesus himself prisoner, after he had reigned fourteen years and had
+        been besieged fourteen days, having fulfilled the oracle in that he had
+        brought to an end his own great empire. So the Persians having taken him
+        brought him into the presence of Cyrus: and he piled up a great pyre
+        and caused Croesus to go up upon it bound in fetters, and along with him
+        twice seven sons of Lydians, whether it was that he meant to dedicate
+        this offering as first-fruits of his victory to some god, or whether
+        he desired to fulfil a vow, or else had heard that Croesus was a
+        god-fearing man and so caused him to go up on the pyre because he wished
+        to know if any one of the divine powers would save him, so that he
+        should not be burnt alive. He, they say, did this; but to Croesus as
+        he stood upon the pyre there came, although he was in such evil case, a
+        memory of the saying of Solon, how he had said with divine inspiration
+        that no one of the living might be called happy. And when this thought
+        came into his mind, they say that he sighed deeply and groaned aloud,
+        having been for long silent, and three times he uttered the name of
+        Solon. Hearing this, Cyrus bade the interpreters ask Croesus who was
+        this person on whom he called; and they came near and asked. And
+        Croesus for a time, it is said, kept silence when he was asked this,
+        but afterwards being pressed he said: "One whom more than much wealth I
+        should have desired to have speech with all monarchs." Then, since his
+        words were of doubtful import, they asked again of that which he said;
+        and as they were urgent with him and gave him no peace, he told how once
+        Solon an Athenian had come, and having inspected all his wealth had made
+        light of it, with such and such words; and how all had turned out for
+        him according as Solon had said, not speaking at all especially with
+        a view to Croesus himself, but with a view to the whole human race
+        and especially those who seem to themselves to be happy men. And while
+        Croesus related these things, already the pyre was lighted and the edges
+        of it round about were burning. Then they say that Cyrus, hearing
+        from the interpreters what Croesus had said, changed his purpose
+        and considered that he himself also was but a man, and that he was
+        delivering another man, who had been not inferior to himself in
+        felicity, alive to the fire; and moreover he feared the requital, and
+        reflected that there was nothing of that which men possessed which was
+        secure;
+
+    [2] The History of Herodotus.txt · part 48
+        of it round about were burning. Then they say that Cyrus, hearing
+        from the interpreters what Croesus had said, changed his purpose
+        and considered that he himself also was but a man, and that he was
+        delivering another man, who had been not inferior to himself in
+        felicity, alive to the fire; and moreover he feared the requital, and
+        reflected that there was nothing of that which men possessed which was
+        secure; therefore, they say, he ordered them to extinguish as quickly as
+        possible the fire that was burning, and to bring down Croesus and those
+        who were with him from the pyre; and they using endeavours were not able
+        now to get the mastery of the flames.
+
+        87. Then it is related by the Lydians that Croesus, having learned how
+        Cyrus had changed his mind, and seeing that every one was trying to put
+        out the fire but that they were no longer able to check it, cried aloud
+        entreating Apollo that if any gift had ever been given by him which had
+        been acceptable to the god, he would come to his aid and rescue him from
+        the evil which was now upon him. So he with tears entreated the god, and
+        suddenly, they say, after clear sky and calm weather clouds gathered and
+        a storm burst, and it rained with a very violent shower, and the pyre
+        was extinguished. Then Cyrus, having perceived that Croesus was a lover
+        of the gods and a good man, caused him to be brought down from the pyre
+        and asked him as follows: "Croesus, tell me who of all men was it who
+        persuaded thee to march upon my land and so to become an enemy to me
+        instead of a friend?" and he said: "O king, I did this to thy felicity
+        and to my own misfortune, and the causer of this was the god of the
+        Hellenes, who incited me to march with my army. For no one is so
+        senseless as to choose of his own will war rather peace, since in peace
+        the sons bury their fathers, but in war the fathers bury their sons.
+        But it was pleasing, I suppose, to the divine powers that these things
+        should come to pass thus."
+
+        88. So he spoke, and Cyrus loosed his bonds and caused him to sit near
+        himself and paid to him much regard, and he marvelled both himself and
+        all who were about him at the sight of Croesus. And Croesus wrapt in
+        thought was silent; but after a time, turning round and seeing the
+        Persians plundering the city of the Lydians, he said: "O king, must I
+        say to thee that which I chance to have in my thought, or must I keep
+        silent in this my present fortune?" Then Cyrus bade him say boldly
+        whatsoever he desired; and he asked him saying: "What is the business
+        that this great multitude of men is doing with so much eagerness?" and
+        he said: "They are plundering thy city and carrying away thy wealth."
+        And Croesus answered: "Neither is it my city that they are plundering
+        nor my wealth which they are carrying away; for I have no longer any
+        property in these things: but it is thy wealth that they are carrying
+        and driving away."
+
+    [3] The History of Herodotus.txt · part 22
+        to him that which he had suffered from his guest, and he called moreover
+        upon the Protector of Suppliants and the Guardian of Friendship,
+        naming still the same god, and calling upon him as the Protector of
+        Suppliants because when he received the guest into his house he had
+        been fostering ignorantly the slayer of his son, and as the Guardian of
+        Friendship because having sent him as a protector he had found him the
+        worst of foes.
+
+        45. After this the Lydians came bearing the corpse, and behind it
+        followed the slayer: and he taking his stand before the corpse delivered
+        himself up to Croesus, holding forth his hands and bidding the king slay
+        him over the corpse, speaking of his former misfortune and saying that
+        in addition to this he had now been the destroyer of the man who had
+        cleansed him of it; and that life for him was no more worth living. But
+        Croesus hearing this pitied Adrastos, although he was himself suffering
+        so great an evil of his own, and said to him: "Guest, I have already
+        received from thee all the satisfaction that is due, seeing that thou
+        dost condemn thyself to suffer death; and not thou alone art the cause
+        of this evil, except in so far as thou wert the instrument of it against
+        thine own will, but some one, as I suppose, of the gods, who also long
+        ago signified to me that which was about to be." So Croesus buried his
+        son as was fitting: but Adrastos the son of Gordias, the son of Midas,
+        he who had been the slayer of his own brother and the slayer also of the
+        man who had cleansed him, when silence came of all men round about the
+        tomb, recognising that he was more grievously burdened by misfortune
+        than all men of whom he knew, slew himself upon the grave.
+
+        46. For two years then Croesus remained quiet in his mourning,
+        because he was deprived of his son: but after this period of time the
+        overthrowing of the rule of Astyages the son of Kyaxares by Cyrus
+        the son of Cambyses, and the growing greatness of the Persians caused
+        Croesus to cease from his mourning, and led him to a care of cutting
+        short the power of the Persians, if by any means he might, while yet it
+        was in growth and before they should have become great.
+
+        So having formed this design he began forthwith to make trial of
+        the Oracles, both those of the Hellenes and that in Libya, sending
+        messengers some to one place and some to another, some to go to Delphi,
+        others to Abai of the Phokians, and others to Dodona; and some were
+        sent to the shrine of Amphiaraos and to that of Trophonios, others to
+        Branchidai in the land of Miletos: these are the Oracles of the Hellenes
+        to which Croesus sent messengers to seek divination; and others he sent
+        to the shrine of Ammon in Libya to inquire there. Now he was sending the
+        messengers abroad to the end that he might try the Oracles and find
+        out what knowledge they had, so that if they should be found to have
+        knowledge of the truth, he might send and ask them secondly whether he
+        should attempt to march against the Persians.
+
+    [4] The History of Herodotus.txt · part 26
+        Croesus. Moreover Croesus dedicated the ornaments from his wife's neck
+        and her girdles.
+
+        52. These are the things which he sent to Delphi; and to Amphiaraos,
+        having heard of his valour and of his evil fate, he dedicated a shield
+        made altogether of gold throughout, and a spear all of solid gold, the
+        shaft being of gold also as well as the two points, which offerings
+        were both remaining even to my time at Thebes in the temple of Ismenian
+        Apollo.
+
+        53. To the Lydians who were to carry these gifts to the temples Croesus
+        gave charge that they should ask the Oracles this question also,—whether
+        Croesus should march against the Persians, and if so, whether he should
+        join with himself any army of men as his friends. And when the Lydians
+        had arrived at the places to which they had been sent and had dedicated
+        the votive offerings, they inquired of the Oracles and said: "Croesus,
+        king of the Lydians and of other nations, considering that these are
+        the only true Oracles among men, presents to you gifts such as your
+        revelations deserve, and asks you again now whether he shall march
+        against the Persians, and if so, whether he shall join with himself any
+        army of men as allies." They inquired thus, and the answers of both
+        the Oracles agreed in one, declaring to Croesus that if he should
+        march against the Persians he should destroy a great empire: and they
+        counselled him to find out the most powerful of the Hellenes and join
+        these with himself as friends.
+
+        54. So when the answers were brought back and Croesus heard them, he
+        was delighted with the oracles, and expecting that he would certainly
+        destroy the kingdom of Cyrus, he sent again to Pytho, and presented
+        to the men of Delphi, having ascertained the number of them, two staters
+        of gold for each man: and in for this the Delphians gave to Croesus and
+        to the Lydians precedence in consulting the Oracle and freedom from all
+        payments, and the right to front seats at the games, with this privilege
+        also for all time, that any one of them who wished should be allowed to
+        become a citizen of Delphi.
+
+        55. And having made presents to the men of Delphi, Croesus consulted the
+        Oracle the third time; for from the time when he learnt the truth of
+        the Oracle, he made abundant use of it. And consulting the Oracle
+        he inquired whether his monarchy would endure for a long time. And the
+        Pythian prophetess answered him thus:
+
+        "But when it cometh to pass that a mule of the Medes shall be monarch
+        Then by the pebbly Hermos, O Lydian delicate-footed,
+        Flee and stay not, and be not ashamed to be callèd a coward."
+
+    [5] The History of Herodotus.txt · part 51
+        of the temple and to ask the god whether he felt no shame that he had
+        incited Croesus by his prophecies to march upon the Persians, persuading
+        him that he should bring to an end the empire of Cyrus, seeing that
+        these were the first-fruits of spoil which he had won from it,—at the
+        same time displaying the fetters. This they were to ask, and moreover
+        also whether it was thought right by the gods of the Hellenes to
+        practice ingratitude.
+
+        91. When the Lydians came and repeated that which they were enjoined to
+        say, it is related that the Pythian prophetess spoke as follows: "The
+        fated destiny it is impossible even for a god to escape. And Croesus
+        paid the debt due for the sin of his fifth ancestor, who being one of
+        the spearmen of the Heracleidai followed the treacherous device of a
+        woman, and having slain his master took possession of his royal dignity,
+        which belonged not to him of right. And although Loxias eagerly desired
+        that the calamity of Sardis might come upon the sons of Croesus and not
+        upon Croesus himself, it was not possible for him to draw the Destinies
+        aside from their course; but so much as these granted he brought to
+        pass, and gave it as a gift to Croesus: for he put off the taking of
+        Sardis by three years; and let Croesus be assured that he was taken
+        prisoner later by these years than the fated time: moreover secondly, he
+        assisted him when he was about to be burnt. And as to the oracle which
+        was given, Croesus finds fault with good ground: for Loxias told him
+        beforehand that if he should march upon the Persians he should destroy
+        a great empire: and he upon hearing this, if he wished to take counsel
+        well, ought to have sent and asked further whether the god meant his
+        own empire or that of Cyrus: but as he did not comprehend that which was
+        uttered and did not ask again, let him pronounce himself to be the cause
+        of that which followed. To him also when he consulted the Oracle for
+        the last time Loxias said that which he said concerning a mule; but this
+        also he failed to comprehend: for Cyrus was in fact this mule, seeing
+        that he was born of parents who were of two different races, his mother
+        being of nobler descent and his father of less noble: for she was a
+        Median woman, daughter of Astyages and king of the Medes, but he was a
+        Persian, one of a race subject to the Medes, and being inferior in all
+        respects he was the husband of one who was his royal mistress." Thus the
+        Pythian prophetess replied to the Lydians, and they brought the answer
+        back to Sardis and repeated it to Croesus; and he, when he heard it,
+        acknowledged that the fault was his own and not that of the god. With
+        regard then to the empire of Croesus and the first conquest of Ionia, it
+        happened thus.
+
+------------------------------------------------------------------------
+
+Exchange 3: Agent Search; 0.7 Temperature; Default Prompt
+
+You:
+    Describe the Battle of Thermopylae according to Book VII. Who betrayed the Greeks, which allies stayed with Leonidas at the end, and how did the battle conclude?
+
+Herodotus:
+    I shall tell you of the struggle at Thermopylai as I have set it down in my history, for it is a tale that deserves to be remembered by all men.
+
+    The Hellenes held the narrow passage with a small force, and the king of the Persians, Xerxes, sent first the Medes against them, charging them to take the men alive. But the Medes were roughly handled, and when they retired, the Persians whom the king called the "Immortals," of whom Hydarnes was commander, took their place — yet even they gained no more success than the Medes, for they fought in a narrow place with shorter spears, and could not avail themselves of their superior numbers. Indeed, the Lacedemonians made it evident to every man, and to the king himself not least of all, that human beings are many but men are few. They would even turn their backs and make a pretence of flight, and when the Barbarians followed with shouting, they would turn and slay them in multitudes [1]. Xerxes, looking on, three times leapt up from his seat, struck with fear for his army [1].
+
+    Now as for the betrayal: when the king was in a strait as to what he should do, there came to him Epialtes, the son of Eurydemos, a Malian, who showed him the path leading over the mountain, and so brought about the destruction of the Hellenes who remained in that place. For this deed a price was afterwards proclaimed for his life, and though he fled to Thessaly, he was in time slain at Antikyra by Athenades of Trachis — and though Athenades killed him for another cause, he was honoured for it none the less by the Lacedemonians. I know that some tell another tale, naming Onetes of Carystos and Corydallos of Antikyra as the guilty men, but this I can by no means accept: the Deputies of the Hellenes proclaimed a price for the life of Epialtes alone, and it was Epialtes who led them round, and him therefore I write down as the guilty man [2].
+
+    Before the last day, when the day-watchers came down and the Hellenes saw that the force which had gone round the mountain was at hand, their opinions were divided. Some departed to their several cities; but I am inclined to believe that Leonidas himself sent them away, having a care that they might not perish, while he thought it not seemly for himself to leave the post to which he had come — for an oracle had been given to the Spartans that either Lacedemon must be destroyed, or their king must lose his life. Leonidas, desiring to lay up glory for himself above all other Spartans, dismissed the allies; yet the Thespians and the Thebans remained with him. Of these, the Thebans stayed against their will, kept as hostages; but the Thespians very willingly, saying they would not depart and leave Leonidas — and they stayed behind and died with him, under their commander Demophilos [3, 4].
+
+    As for how the battle concluded: on the last day Xerxes made libations at sunrise and advanced at the hour when the market fills. The Hellenes with Leonidas, knowing they went forth to death, advanced out into the broader part of the defile, and very many of the Barbarians fell — some driven into the sea, others trodden down by one another — for the Hellenes, disregarding danger, fought as if possessed by a spirit of recklessness [4]. When their spears were broken they slew the Persians with their swords, and in this fighting fell Leonidas, having proved himself a very good man, together with the other Spartans whose names I was told, even the names of all the three hundred. Over his body there arose a great struggle, and the Hellenes by valour dragged it away and turned the Persians to flight four times. But when those who had gone with Epialtes came up, the Hellenes retired to the hillock in the entrance — where now the stone lion is placed for Leonidas — and there, defending themselves with daggers, with hands and with teeth, they were overwhelmed by the missiles of the Barbarians [5]. Thus died those men, and I declare that over those who died at Thermopylai there was laid the greatest praise I know of any men.
+
+    Research:
+    1. Searched “Battle of Thermopylae Leonidas Persians mountain path betrayal” · 5 found
+    2. Looked for “Ephialtes” · 0 found
+    3. Searched “Leonidas dismisses allies Thespians Thebans remained behind” · 5 found
+    4. Searched “first day second day fighting at Thermopylae Xerxes Medes Immortals Hydarnes” · 5 found
+    5. Read around The History of Herodotus.txt, part 615
+
+    Sources:
+
+    [1] The History of Herodotus.txt · part 610
+        and the Kissians, charging them to take the men alive and bring them
+        into his presence. Then when the Medes moved forward and attacked
+        the Hellenes, there fell many of them, and others kept coming up
+        continually, and they were not driven back, though suffering great loss:
+        and they made it evident to every man, and to the king himself not least
+        of all, that human beings are many but men are few. This combat went on
+        throughout the day:
+
+        211, and when the Medes were being roughly handled, then these retired
+        from the battle, and the Persians, those namely whom the king called
+        "Immortals," of whom Hydarnes was commander, took their place and came
+        to the attack, supposing that they at least would easily overcome the
+        enemy. When however these also engaged in combat with the Hellenes,
+        they gained no more success than the Median troops but the same as they,
+        seeing that they were fighting in a place with a narrow passage, using
+        shorter spears than the Hellenes, and not being able to take advantage
+        of their superior numbers. The Lacedemonians meanwhile were fighting
+        in a memorable fashion, and besides other things of which they made
+        display, being men perfectly skilled in fighting opposed to men who were
+        unskilled, they would turn their backs to the enemy and make a pretence
+        of taking to flight; and the Barbarians, seeing them thus taking a
+        flight, would follow after them with shouting and clashing of arms: then
+        the Lacedemonians, when they were being caught up, turned and faced
+        the Barbarians; and thus turning round they would slay innumerable
+        multitudes of the Persians; and there fell also at these times a few of
+        the Spartans themselves. So, as the Persians were not able to obtain any
+        success by making trial of the entrance and attacking it by divisions
+        and every way, they retired back.
+
+        212. And during these onsets it is said that the king, looking on, three
+        times leapt up from his seat, struck with fear for his army. Thus they
+        contended then: and on the following day the Barbarians strove with no
+        better success; for because the men opposed to them were few in number,
+        they engaged in battle with the expectation that they would be found to
+        be disabled and would not be capable any longer of raising their hands
+        against them in fight. The Hellenes however were ordered by companies as
+        well as by nations, and they fought successively each in turn, excepting
+        the Phokians, for these were posted upon the mountain to guard the path.
+        So the Persians, finding nothing different from that which they had seen
+        on the former day, retired back from the fight.
+
+    [2] The History of Herodotus.txt · part 611
+        be disabled and would not be capable any longer of raising their hands
+        against them in fight. The Hellenes however were ordered by companies as
+        well as by nations, and they fought successively each in turn, excepting
+        the Phokians, for these were posted upon the mountain to guard the path.
+        So the Persians, finding nothing different from that which they had seen
+        on the former day, retired back from the fight.
+
+        213. Then when the king was in a strait as to what he should do in the
+        matter before him, Epialtes the son of Eurydemos, a Malian, came to
+        speech with him, supposing that he would win a very great reward
+        from the king; and this man told him of the path which leads over the
+        mountain to Thermopylai, and brought about the destruction of those
+        Hellenes who remained in that place. Afterwards from fear of the
+        Lacedemonians he fled to Thessaly, and when he had fled, a price was
+        proclaimed for his life by the Deputies, when the Amphictyons
+        met for their assembly at Pylai. Then some time afterwards having
+        returned to Antikyra he was slain by Athenades a man of Trachis. Now
+        this Athenades killed Epialtes for another cause, which I shall set
+        forth in the following part of the history, but he was honoured for
+        it none the less by the Lacedemonians.
+
+        214. Thus Epialtes after these events was slain: there is however
+        another tale told, that Onetes the son of Phanagoras, a man of Carystos,
+        and Corydallos of Antikyra were those who showed the Persians the way
+        round the mountain; but this I can by no means accept: for first we must
+        judge by this fact, namely that the Deputies of the Hellenes did not
+        proclaim a price for the lives of Onetes and Corydallos, but for that
+        of Epialtes the Trachinian, having surely obtained the most exact
+        information of the matter; and secondly we know that Epialtes was an
+        exile from his country to avoid this charge. True it is indeed that
+        Onetes might know of this path, even though he were not a Malian, if he
+        had had much intercourse with the country; but Epialtes it was who led
+        them round the mountain by the path, and him therefore I write down as
+        the guilty man.
+
+    [3] The History of Herodotus.txt · part 614
+        came the day-watchers, who had run down from the heights when day was
+        already dawning. Then the Hellenes deliberated, and their opinions were
+        divided; for some urged that they should not desert their post, while
+        others opposed this counsel. After this they departed from their
+        assembly, and some went away and dispersed each to their several
+        cities, while others of them were ready to remain there together with
+        Leonidas.
+
+        220. However it is reported also that Leonidas himself sent them away,
+        having a care that they might not perish, but thinking that it was not
+        seemly for himself and for the Spartans who were present to leave the
+        post to which they had come at first to keep guard there. I am inclined
+        rather to be of this latter opinion, namely that because Leonidas
+        perceived that the allies were out of heart and did not desire to face
+        the danger with him to the end, he ordered them to depart, but held that
+        for himself to go away was not honourable, whereas if he remained, a
+        great fame of him would be left behind, and the prosperity of Sparta
+        would not be blotted out: for an oracle had been given by the Pythian
+        prophetess to the Spartans, when they consulted about this war at the
+        time when it was being first set on foot, to the effect that either
+        Lacedemon must be destroyed by the Barbarians, or their king must lose
+        his life. This reply the prophetess gave them in hexameter verses, and
+        it ran thus:
+
+        "But as for you, ye men who in wide-spaced Sparta inhabit,
+        Either your glorious city is sacked by the children of Perses,
+        Or, if it be not so, then a king of the stock Heracleian
+        Dead shall be mourned for by all in the boundaries of broad Lacedemon.
+        Him nor the might of bulls nor the raging of lions shall hinder;
+        For he hath might as of Zeus; and I say he shall not be restrained,
+        Till one of the other of these he have utterly torn and divided." 223
+
+        I am of opinion that Leonidas considering these things and desiring to
+        lay up for himself glory above all the other Spartans, dismissed the
+        allies, rather than that those who departed did so in such disorderly
+        fashion, because they were divided in opinion.
+
+        221. Of this the following has been to my mind a proof as convincing as
+        any other, namely that Leonidas is known to have endeavoured to dismiss
+        the soothsayer also who accompanied this army, Megistias the Acarnanian,
+        who was said to be descended from Melampus, that he might not perish
+        with them after he had declared from the victims that which was about
+        to come to pass for them. He however when he was bidden to go would
+        not himself depart, but sent away his son who was with him in the army,
+        besides whom he had no other child.
+
+    [4] The History of Herodotus.txt · part 615
+        the soothsayer also who accompanied this army, Megistias the Acarnanian,
+        who was said to be descended from Melampus, that he might not perish
+        with them after he had declared from the victims that which was about
+        to come to pass for them. He however when he was bidden to go would
+        not himself depart, but sent away his son who was with him in the army,
+        besides whom he had no other child.
+
+        222. The allies then who were dismissed departed and went away, obeying
+        the word of Leonidas, and only the Thespians and the Thebans remained
+        behind with the Lacedemonians. Of these the Thebans stayed against their
+        will and not because they desired it, for Leonidas kept them, counting
+        them as hostages; but the Thespians very willingly, for they said that
+        they would not depart and leave Leonidas and those with him, but they
+        stayed behind and died with them. The commander of these was Demophilos
+        the son of Diadromes.
+
+        223. Xerxes meanwhile, having made libations at sunrise, stayed for
+        some time, until about the hour when the market fills, and then made
+        an advance upon them; for thus it had been enjoined by Epialtes, seeing
+        that the descent of the mountain is shorter and the space to be passed
+        over much less than the going round and the ascent. The Barbarians
+        accordingly with Xerxes were advancing to the attack; and the Hellenes
+        with Leonidas, feeling that they were going forth to death, now advanced
+        out much further than at first into the broader part of the defile; for
+        when the fence of the wall was being guarded, they on the former
+        days fought retiring before the enemy into the narrow part of the pass;
+        but now they engaged with them outside the narrows, and very many of
+        the Barbarians fell: for behind them the leaders of the divisions with
+        scourges in their hands were striking each man, ever urging them on to
+        the front. Many of them then were driven into the sea and perished, and
+        many more still were trodden down while yet alive by one another, and
+        there was no reckoning of the number that perished: for knowing the
+        death which was about to come upon them by reason of those who were
+        going round the mountain, they displayed upon the Barbarians all the
+        strength which they had, to its greatest extent, disregarding danger and
+        acting as if possessed by a spirit of recklessness.
+
+    [5] The History of Herodotus.txt · part 616
+        many more still were trodden down while yet alive by one another, and
+        there was no reckoning of the number that perished: for knowing the
+        death which was about to come upon them by reason of those who were
+        going round the mountain, they displayed upon the Barbarians all the
+        strength which they had, to its greatest extent, disregarding danger and
+        acting as if possessed by a spirit of recklessness.
+
+        224. Now by this time the spears of the greater number of them were
+        broken, so it chanced, in this combat, and they were slaying the
+        Persians with their swords; and in this fighting fell Leonidas, having
+        proved himself a very good man, and others also of the Spartans with
+        him, men of note, of whose names I was informed as of men who had proved
+        themselves worthy, and indeed I was told also the names of all the three
+        hundred. Moreover of the Persians there fell here, besides many others
+        of note, especially two sons of Dareios, Abrocomes and Hyperanthes, born
+        to Dareios of Phratagune the daughter of Artanes: now Artanes was the
+        brother of king Dareios and the son of Hystaspes, the son of Arsames;
+        and he in giving his daughter in marriage to Dareios gave also with her
+        all his substance, because she was his only child.
+
+        225. Two brothers of Xerxes, I say, fell here fighting; and meanwhile
+        over the body of Leonidas there arose a great struggle between the
+        Persians and the Lacedemonians, until the Hellenes by valour dragged
+        this away from the enemy and turned their opponents to flight four
+        times. This conflict continued until those who had gone with Epialtes
+        came up; and when the Hellenes learnt that these had come, from that
+        moment the nature of the combat was changed; for they retired backwards
+        to the narrow part of the way, and having passed by the wall they went
+        and placed themselves upon the hillock, all in a body together
+        except only the Thebans: now this hillock is in the entrance, where
+        now the stone lion is placed for Leonidas. On this spot while defending
+        themselves with daggers, that is those who still had them left, and also
+        with hands and with teeth, they were overwhelmed by the missiles of
+        the Barbarians, some of these having followed directly after them and
+        destroyed the fence of the wall, while others had come round and stood
+        about them on all sides.
+
+------------------------------------------------------------------------
+
+Exchange 3  Follow-up: Agent Search; 0.7 Temperature; Default Prompt
+
+You:
+    What happened to the Thebans who stayed behind, and how did Xerxes treat Leonidas's body after the battle?
+
+Herodotus:
+    Of the Thebans I must tell you a tale that is not wholly glorious. They had remained with Leonidas against their will, kept as hostages, and their commander was Leontiades. For a time they fought against the king's army, constrained by necessity; but when they saw that the fortunes of the Persians were prevailing — and this was while the Hellenes with Leonidas were making their way with speed to the hillock — then, and not before, they separated from the Lacedemonians, and holding out their hands they came near to the Barbarians, saying at the same time that which was most true: namely, that they were on the side of the Medes, that they had been among the first to give earth and water to the king, and that they had come to Thermopylai constrained by necessity, and were blameless for the loss which had been inflicted upon the king. The Thessalians also bore witness to these words, and so saying they preserved their lives. Yet they did not altogether meet with good fortune: some were even slain as they approached, and when the Barbarians had them in their power, the greater number of them were branded by command of Xerxes with the royal marks, beginning with their leader Leontiades himself — the same whose son Eurymachos was afterwards slain by the Plataians, when he had been made commander of four hundred Thebans and had seized the city of the Plataians. [1]
+
+    As for Leonidas: when Xerxes had passed in review the bodies of the dead, and heard that Leonidas had been the king and commander of the Lacedemonians, he bade them cut off his head and crucify him. Now it has been made plain to me by many proofs besides, but by none more strongly than by this, that king Xerxes was enraged with Leonidas while alive more than with any other man on earth; for otherwise he would never have done this outrage to his corpse — since of all the men whom I know, the Persians are accustomed most to honour those who have proved themselves good men in war. They then to whom it was appointed to do these things, proceeded to do so. [2]
+
+    Research:
+    1. Searched “Thebans left behind at Thermopylae surrendered, branded with royal mark” · 5 found
+    2. Searched “Xerxes ordered Leonidas head cut off body impaled” · 5 found
+
+    Sources:
+
+    [1] The History of Herodotus.txt · part 619
+        Aristodemos the coward. 234
+
+        232. He however in the battle at Plataia repaired all the guilt that was
+        charged against him: but it is reported that another man also survived
+        of these three hundred, whose name was Pantites, having been sent as a
+        messenger to Thessaly, and this man, when he returned back to Sparta and
+        found himself dishonoured, is said to have strangled himself.
+
+        233. The Thebans however, of whom the commander was Leontiades, being
+        with the Hellenes had continued for some time to fight against the
+        king's army, constrained by necessity; but when they saw that the
+        fortunes of the Persians were prevailing, then and not before, while the
+        Hellenes with Leonidas were making their way with speed to the hillock,
+        they separated from these and holding out their hands came near to the
+        Barbarians, saying at the same time that which was most true, namely
+        that they were on the side of the Medes and that they had been among the
+        first to give earth and water to the king; and moreover that they had
+        come to Thermopylai constrained by necessity, and were blameless for the
+        loss which had been inflicted upon the king: so that thus saying they
+        preserved their lives, for they had also the Thessalians to bear witness
+        to these words. However, they did not altogether meet with good fortune,
+        for some had even been slain as they had been approaching, and when they
+        had come and the Barbarians had them in their power, the greater
+        number of them were branded by command of Xerxes with the royal marks,
+        beginning with their leader Leontiades, the same whose son Eurymachos
+        was afterwards slain by the Plataians, when he had been made commander
+        of four hundred Thebans and had seized the city of the Plataians. 235
+
+        234. Thus did the Hellenes at Thermopylai contend in fight; and
+        Xerxes summoned Demaratos and inquired of him, having first said this:
+        "Demaratos, thou art a good man; and this I conclude by the truth of thy
+        words, for all that thou saidest turned out so as thou didst say. Now,
+        however, tell me how many in number are the remaining Lacedemonians, and
+        of them how many are like these in matters of war; or are they so even
+        all of them?" He said: "O king, the number of all the Lacedemonians is
+        great and their cities are many, but that which thou desirest to learn,
+        thou shalt know. There is in Lacedemon the city of Sparta, having about
+        eight thousand men; and these are all equal to those who fought here:
+        the other Lacedemonians are not equal to these, but they are good men
+        too." To this Xerxes said: "Demaratos, in what manner shall we with
+        least labour get the better of these men? Come set forth to us this; for
+        thou knowest the courses of their counsels, seeing that thou wert
+        once their king."
+
+    [2] The History of Herodotus.txt · part 622
+        suggest that which seemed to him the best, unless he had attained to a
+        great height of virtue, and such men doubtless are few; yet guest-friend
+        to guest-friend in prosperity is well-disposed as nothing else on
+        earth, and if his friend should consult him, he would give him the best
+        counsel. Thus then as regards the evil-speaking against Demaratos, that
+        is to say about one who is my guest-friend, I bid every one abstain from
+        it in the future."
+
+        238. Having thus said Xerxes passed in review the bodies of the dead;
+        and as for Leonidas, hearing that he had been the king and commander of
+        the Lacedemonians he bade them cut off his head and crucify him. And
+        it has been made plain to me by many proofs besides, but by none more
+        strongly than by this, that king Xerxes was enraged with Leonidas while
+        alive more than with any other man on earth; for otherwise he would
+        never have done this outrage to his corpse; since of all the men whom I
+        know, the Persians are accustomed most to honour those who are good men
+        in war. They then to whom it was appointed to do these things, proceeded
+        to do so.
+
+        239. I will return now to that point of my narrative where it remained
+        unfinished. The Lacedemonians had been informed before all others
+        that the king was preparing an expedition against Hellas; and thus it
+        happened that they sent to the Oracle at Delphi, where that reply was
+        given them which I reported shortly before this. And they got this
+        information in a strange manner; for Demaratos the son of Ariston
+        after he had fled for refuge to the Medes was not friendly to the
+        Lacedemonians, as I am of opinion and as likelihood suggests supporting
+        my opinion; but it is open to any man to make conjecture whether he did
+        this thing which follows in a friendly spirit or in malicious triumph
+        over them. When Xerxes had resolved to make a campaign against Hellas,
+        Demaratos, being in Susa and having been informed of this, had a desire
+        to report it to the Lacedemonians. Now in no other way was he able to
+        signify it, for there was danger that he should be discovered, but he
+        contrived thus, that is to say, he took a folding tablet and scraped off
+        the wax which was upon it, and then he wrote the design of the king upon
+        the wood of the tablet, and having done so he melted the wax and poured
+        it over the writing, so that the tablet (being carried without writing
+        upon it) might not cause any trouble to be given by the keepers of the
+        road. Then when it had arrived at Lacedemon, the Lacedemonians were not
+        able to make conjecture of the matter; until at last, as I am informed,
+        Gorgo, the daughter of Cleomenes and wife of Leonidas, suggested a plan
+        of which she had herself thought, bidding them scrape the wax and they
+        would find writing upon the wood; and doing as she said they found
+        the writing and read it, and after that they sent notice to the other
+        Hellenes. These things are said to have come to pass in this manner.
+
+        BOOK VIII. THE EIGHTH BOOK OF THE HISTORIES, CALLED URANIA
+
+    [3] The History of Herodotus.txt · part 616
+        many more still were trodden down while yet alive by one another, and
+        there was no reckoning of the number that perished: for knowing the
+        death which was about to come upon them by reason of those who were
+        going round the mountain, they displayed upon the Barbarians all the
+        strength which they had, to its greatest extent, disregarding danger and
+        acting as if possessed by a spirit of recklessness.
+
+        224. Now by this time the spears of the greater number of them were
+        broken, so it chanced, in this combat, and they were slaying the
+        Persians with their swords; and in this fighting fell Leonidas, having
+        proved himself a very good man, and others also of the Spartans with
+        him, men of note, of whose names I was informed as of men who had proved
+        themselves worthy, and indeed I was told also the names of all the three
+        hundred. Moreover of the Persians there fell here, besides many others
+        of note, especially two sons of Dareios, Abrocomes and Hyperanthes, born
+        to Dareios of Phratagune the daughter of Artanes: now Artanes was the
+        brother of king Dareios and the son of Hystaspes, the son of Arsames;
+        and he in giving his daughter in marriage to Dareios gave also with her
+        all his substance, because she was his only child.
+
+        225. Two brothers of Xerxes, I say, fell here fighting; and meanwhile
+        over the body of Leonidas there arose a great struggle between the
+        Persians and the Lacedemonians, until the Hellenes by valour dragged
+        this away from the enemy and turned their opponents to flight four
+        times. This conflict continued until those who had gone with Epialtes
+        came up; and when the Hellenes learnt that these had come, from that
+        moment the nature of the combat was changed; for they retired backwards
+        to the narrow part of the way, and having passed by the wall they went
+        and placed themselves upon the hillock, all in a body together
+        except only the Thebans: now this hillock is in the entrance, where
+        now the stone lion is placed for Leonidas. On this spot while defending
+        themselves with daggers, that is those who still had them left, and also
+        with hands and with teeth, they were overwhelmed by the missiles of
+        the Barbarians, some of these having followed directly after them and
+        destroyed the fence of the wall, while others had come round and stood
+        about them on all sides.
+
+    [4] The History of Herodotus.txt · part 615
+        the soothsayer also who accompanied this army, Megistias the Acarnanian,
+        who was said to be descended from Melampus, that he might not perish
+        with them after he had declared from the victims that which was about
+        to come to pass for them. He however when he was bidden to go would
+        not himself depart, but sent away his son who was with him in the army,
+        besides whom he had no other child.
+
+        222. The allies then who were dismissed departed and went away, obeying
+        the word of Leonidas, and only the Thespians and the Thebans remained
+        behind with the Lacedemonians. Of these the Thebans stayed against their
+        will and not because they desired it, for Leonidas kept them, counting
+        them as hostages; but the Thespians very willingly, for they said that
+        they would not depart and leave Leonidas and those with him, but they
+        stayed behind and died with them. The commander of these was Demophilos
+        the son of Diadromes.
+
+        223. Xerxes meanwhile, having made libations at sunrise, stayed for
+        some time, until about the hour when the market fills, and then made
+        an advance upon them; for thus it had been enjoined by Epialtes, seeing
+        that the descent of the mountain is shorter and the space to be passed
+        over much less than the going round and the ascent. The Barbarians
+        accordingly with Xerxes were advancing to the attack; and the Hellenes
+        with Leonidas, feeling that they were going forth to death, now advanced
+        out much further than at first into the broader part of the defile; for
+        when the fence of the wall was being guarded, they on the former
+        days fought retiring before the enemy into the narrow part of the pass;
+        but now they engaged with them outside the narrows, and very many of
+        the Barbarians fell: for behind them the leaders of the divisions with
+        scourges in their hands were striking each man, ever urging them on to
+        the front. Many of them then were driven into the sea and perished, and
+        many more still were trodden down while yet alive by one another, and
+        there was no reckoning of the number that perished: for knowing the
+        death which was about to come upon them by reason of those who were
+        going round the mountain, they displayed upon the Barbarians all the
+        strength which they had, to its greatest extent, disregarding danger and
+        acting as if possessed by a spirit of recklessness.
+
+------------------------------------------------------------------------
+
+Exchange 4: Agent Search; 0.7 Temperature; Default Prompt
+
+You:
+    You report many incredible tales—such as giant gold-digging ants in India and the phoenix in Egypt. Do you expect your readers to believe every single story you write down?
+
+Herodotus:
+    You ask a question that many Hellenes have put to me, and I will answer plainly. My task, as I set it forth in the beginning of this Inquiry, is that the deeds of men not be blotted out by time, nor the great and marvellous works — some done by Hellenes, some by barbarians — lose their renown, and that the causes of their wars be remembered [4]. To that end I write down what I have gathered from all quarters: some things I have seen with my own eyes, some I have heard from men worthy of trust, and some I report as it is told, though I am not bound to believe it all alike. It is my custom to mark the teller, and let the hearer judge.
+
+    Take the ants of India. I do not stand surety for them on my own knowledge, and I say so: it is as the Persians allege that the ants perceive the Indians by smell and pursue them, being the swiftest of all creatures [1]. What I do know is what is told of the place — that the Indians about Caspatyros and the Pactyic country, the most warlike of that people, ride out into the sandy desert where these ants dwell, smaller than dogs but larger than foxes, and that some of them, so it is said, are even kept at the residence of the king of Persia [2]. I have never crossed that desert myself; the tribes there lie beyond the reach of Persian dominion [2]. So I set down the report of those who ought to know, and nothing more.
+
+    Likewise of the island Kyrauis near Libya: the Carthaginians say that girls bring up gold-dust from a pool with birds' feathers smeared with pitch. Whether this is really so I do not know, but I write that which is reported; and nothing is impossible [5]. For I have myself seen in Zakynthos pitch drawn up from a pool of water by a myrtle-branch bound to a pole [5] — and if I had never gone to Zakynthos, I might have laughed at that tale too. So who am I to pronounce impossible what lies beyond my travels? It seems to me, indeed, that the extremities of the inhabited world have had allotted to them by nature the fairest things — India her vast beasts and her gold in abundance, Arabia her frankincense and myrrh [3] — and things so far off are always told to us at second hand.
+
+    As for the phoenix, that is a story I heard from the men of Heliopolis, and I will tell you what they told me; but of it too I have seen only the painted likeness, never the bird itself. So do not take me for a man who believes everything he hears — often I doubt even what the Hellenes themselves recount. My labour is to keep the tales of men from perishing, saying ever who gave me each account; to the discerning reader it belongs to sift the gold from the sand, as the Indians do from the heaps of the ants.
+
+    Research:
+    1. Searched “giant ants gold digging India Herodotus” · 5 found
+    2. Searched “phoenix bird Egypt never seen myself only pictures” · 5 found
+    3. Searched “my duty is to report what is said but not obliged to believe it all equally” · 5 found
+    4. Searched “my duty to report what is said but I am not obliged to believe it all” · 5 found
+    5. Looked for “I am not obliged to believe” · 0 found
+    6. Looked for “I write that which is reported” · 0 found
+    7. Looked for “I am bound to report” · 0 found
+    8. Looked for “nothing is impossible” · 1 found
+
+    Sources:
+
+    [1] The History of Herodotus.txt · part 274
+        they are much more capable of bearing weights.
+
+        103. As to the form of the camel, I do not here describe it, since the
+        Hellenes for whom I write are already acquainted with it, but I shall
+        tell that which is not commonly known about it, which is this:—the camel
+        has in the hind legs four thighs and four knees, and its organs of
+        generation are between the hind legs, turned towards the tail.
+
+        104. The Indians, I say, ride out to get the gold in the manner and with
+        the kind of yoking which I have described, making calculations so that
+        they may be engaged in carrying it off at the time when the greatest
+        heat prevails; for the heat causes the ants to disappear underground.
+        Now among these nations the sun is hottest in the morning hours, not
+        at midday as with others, but from sunrise to the time of closing the
+        market: and during this time it produces much greater heat than at
+        midday in Hellas, so that it is said that then they drench themselves
+        with water. Midday however has about equal degree of heat with the
+        Indians as with other men, while after midday their sun becomes like the
+        morning sun with other men, and after this, as it goes further away, it
+        produces still greater coolness, until at last at sunset it makes the
+        air very cool indeed.
+
+        105. When the Indians have come to the place with bags, they fill them
+        with the sand and ride away back as quickly as they can, for forthwith
+        the ants, perceiving, as the Persians allege, by the smell, begin to
+        pursue them: and this animal, they say, is superior to every other
+        creature in swiftness, so that unless the Indians got a start in their
+        course, while the ants were gathering together, not one of them would
+        escape. So then the male camels, for they are inferior in speed of
+        running to the females, if they drag behind are even let loose from
+        the side of the female, one after the other; the females however,
+        remembering the young which they left behind, do not show any slackness
+        in their course. Thus it is that the Indians get most part of the
+        gold, as the Persians say; there is however other gold also in their
+        land obtained by digging, but in smaller quantities.
+
+        106. It seems indeed that the extremities of the inhabited world had
+        allotted to them by nature the fairest things, just as it was the lot
+        of Hellas to have its seasons far more fairly tempered than other lands:
+        for first, India is the most distant of inhabited lands towards the
+        East, as I have said a little above, and in this land not only the
+        animals, birds as well as four-footed beasts, are much larger than in
+        other places (except the horses, which are surpassed by those of Media
+        called Nessaian), but also there is gold in abundance there, some got
+        by digging, some brought down by rivers, and some carried off as I
+        explained just now: and there also the trees which grow wild produce
+        wool which surpasses in beauty and excellence that from sheep, and the
+        Indians wear clothing obtained from these trees.
+
+    [2] The History of Herodotus.txt · part 273
+        nor is it their custom to possess houses; but they feed on herbs, and
+        they have a grain of the size of millet, in a sheath, which grows of
+        itself from the ground; this they gather and boil with the sheath, and
+        make it their food: and whenever any of them falls into sickness, he
+        goes to the desert country and lies there, and none of them pay any
+        attention either to one who is dead or to one who is sick.
+
+        101. The sexual intercourse of all these Indians of whom I have spoken
+        is open like that of cattle, and they have all one colour of skin,
+        resembling that of the Ethiopians: moreover the seed which they emit is
+        not white like that of other races, but black like their skin; and the
+        Ethiopians also are similar in this respect. These tribes of Indians
+        dwell further off than the Persian power extends, and towards the South
+        Wind, and they never became subjects of Dareios.
+
+        102. Others however of the Indians are on the borders of the city of
+        Caspatyros and the country of Pactyïke, dwelling towards the North of
+        the other Indians; and they have a manner of living nearly the same as
+        that of the Bactrians: these are the most warlike of the Indians, and
+        these are they who make expeditions for the gold. For in the parts where
+        they live it is desert on account of the sand; and in this desert and
+        sandy tract are produced ants, which are in size smaller than dogs but
+        larger than foxes, for there are some of them kept at the residence
+        of the king of Persia, which are caught here. These ants then make their
+        dwelling under ground and carry up the sand just in the same manner as
+        the ants found in the land of the Hellenes, which they themselves
+        also very much resemble in form; and the sand which is brought up
+        contains gold. To obtain this sand the Indians make expeditions into the
+        desert, each one having yoked together three camels, placing a female in
+        the middle and a male like a trace-horse to draw by each side. On this
+        female he mounts himself, having arranged carefully that she shall be
+        taken to be yoked from young ones, the more lately born the better. For
+        their female camels are not inferior to horses in speed, and moreover
+        they are much more capable of bearing weights.
+
+        103. As to the form of the camel, I do not here describe it, since the
+        Hellenes for whom I write are already acquainted with it, but I shall
+        tell that which is not commonly known about it, which is this:—the camel
+        has in the hind legs four thighs and four knees, and its organs of
+        generation are between the hind legs, turned towards the tail.
+
+    [3] The History of Herodotus.txt · part 275
+        other places (except the horses, which are surpassed by those of Media
+        called Nessaian), but also there is gold in abundance there, some got
+        by digging, some brought down by rivers, and some carried off as I
+        explained just now: and there also the trees which grow wild produce
+        wool which surpasses in beauty and excellence that from sheep, and the
+        Indians wear clothing obtained from these trees.
+
+        107. Then again Arabia is the furthest of inhabited lands in the
+        direction of the midday, and in it alone of all lands grow frankincense
+        and myrrh and cassia and cinnamon and gum-mastich. All these except
+        myrrh are got with difficulty by the Arabians. Frankincense they collect
+        by burning the storax, which is brought thence to the Hellenes by the
+        Phenicians, by burning this, I say, so as to produce smoke they take
+        it; for these trees which produce frankincense are guarded by winged
+        serpents, small in size and of various colours, which watch in great
+        numbers about each tree, of the same kind as those which attempt to
+        invade Egypt: and they cannot be driven away from the trees by any
+        other thing but only the smoke of storax.
+
+        108. The Arabians say also that all the world would have been by this
+        time filled with these serpents, if that did not happen with regard to
+        them which I knew happened with regard to vipers: and it seems that the
+        Divine Providence, as indeed was to be expected, seeing that it is wise,
+        has made all those animals prolific which are of cowardly spirit and
+        good for food, in order that they may not be all eaten up and their race
+        fail, whereas it has made those which are bold and noxious to have small
+        progeny. For example, because the hare is hunted by every beast and bird
+        as well as by man, therefore it is so very prolific as it is: and this
+        is the only one of all beasts which becomes pregnant again before the
+        former young are born, and has in its womb some of its young covered
+        with fur and others bare; and while one is just being shaped in the
+        matrix, another is being conceived. Thus it is in this case; whereas
+        the lioness, which is the strongest and most courageous of creatures,
+        produces one cub once only in her life; for when she produces young
+        she casts out her womb together with her young; and the cause of it is
+        this:—when the cub being within the mother begins to move about, then
+        having claws by far sharper than those of any other beast he tears the
+        womb, and as he grows larger he proceeds much further in his scratching:
+        at last the time of birth approaches and there is now nothing at all
+        left of it in a sound condition.
+
+    [4] The History of Herodotus.txt · part 1
+        THE HISTORY OF HERODOTUS
+
+        By Herodotus
+
+        BOOK I. THE FIRST BOOK OF THE HISTORIES, CALLED CLIO
+
+        This is the Showing forth of the Inquiry of Herodotus of Halicarnassos,
+        to the end that neither the deeds of men may be forgotten by lapse
+        of time, nor the works great and marvellous, which have been produced
+        some by Hellenes and some by Barbarians, may lose their renown; and
+        especially that the causes may be remembered for which these waged war
+        with one another.
+
+        1. Those of the Persians who have knowledge of history declare that
+        the Phenicians first began the quarrel. These, they say, came from that
+        which is called the Erythraian Sea to this of ours; and having settled
+        in the land where they continue even now to dwell, set themselves
+        forthwith to make long voyages by sea. And conveying merchandise of
+        Egypt and of Assyria they arrived at other places and also at Argos; now
+        Argos was at that time in all points the first of the States within that
+        land which is now called Hellas;—the Phenicians arrived then at this
+        land of Argos, and began to dispose of their ship's cargo: and on the
+        fifth or sixth day after they had arrived, when their goods had been
+        almost all sold, there came down to the sea a great company of women,
+        and among them the daughter of the king; and her name, as the Hellenes
+        also agree, was Io the daughter of Inachos. These standing near to the
+        stern of the ship were buying of the wares such as pleased them most,
+        when of a sudden the Phenicians, passing the word from one to another,
+        made a rush upon them; and the greater part of the women escaped by
+        flight, but Io and certain others were carried off. So they put them on
+        board their ship, and forthwith departed, sailing away to Egypt.
+
+        2. In this manner the Persians report that Io came to Egypt, not
+        agreeing therein with the Hellenes, and this they say was the first
+        beginning of wrongs. Then after this, they say, certain Hellenes (but
+        the name of the people they are not able to report) put in to the city
+        of Tyre in Phenicia and carried off the king's daughter Europa;—these
+        would doubtless be Cretans;—and so they were quits for the former
+        injury. After this however the Hellenes, they say, were the authors of
+        the second wrong; for they sailed in to Aia of Colchis and to the river
+        Phasis with a ship of war, and from thence, after they had done the
+        other business for which they came, they carried off the king's daughter
+        Medea: and the king of Colchis sent a herald to the land of Hellas and
+        demanded satisfaction for the rape and to have his daughter back; but
+        they answered that, as the Barbarians had given them no satisfaction for
+        the rape of Io the Argive, so neither would they give satisfaction to
+        the Barbarians for this.
+
+    [5] The History of Herodotus.txt · part 387
+        193. Next to the Maxyan Libyans are the Zauekes, whose women drive
+        their chariots for them to war.
+
+        194. Next to these are the Gyzantes, among whom honey is made in
+        great quantity by bees, but in much greater quantity still it is said
+        to be made by men, who work at it as a trade. However that may be, these
+        all smear themselves over with red ochre and eat monkeys, which are
+        produced in very great numbers upon their mountains.
+
+        195. Opposite these, as the Carthaginians say, there lies an island
+        called Kyrauis, two hundred furlongs in length but narrow, to which one
+        may walk over from the mainland; and it is full of olives and vines.
+        In it they say there is a pool, from which the native girls with birds'
+        feathers smeared over with pitch bring up gold-dust out of the mud.
+        Whether this is really so I do not know, but I write that which is
+        reported; and nothing is impossible, for even in Zakynthos I saw
+        myself pitch brought up out of a pool of water. There are there several
+        pools, and the largest of them measures seventy feet each way and is
+        two fathoms in depth. Into this they plunge a pole with a myrtle-branch
+        bound to it, and then with the branch of the myrtle they bring up pitch,
+        which has the smell of asphalt, but in other respects it is superior to
+        the pitch of Pieria. This they pour into a pit dug near the pool; and
+        when they have collected a large quantity, then they pour it into the
+        jars from the pit: and whatever thing falls into the pool goes under
+        ground and reappears in the sea, which is distant about four furlongs
+        from the pool. Thus then the report about the island lying near the
+        coast of Libya is also probably enough true.
+
+        196. The Carthaginians say also this, namely that there is a place in
+        Libya and men dwelling there, outside the Pillars of Heracles, to whom
+        when they have come and have taken the merchandise forth from their
+        ships, they set it in order along the beach and embark again in their
+        ships, and after that they raise a smoke; and the natives of the country
+        seeing the smoke come to the sea, and then they lay down gold as an
+        equivalent for the merchandise and retire to a distance away from the
+        merchandise. The Carthaginians upon that disembark and examine it,
+        and if the gold is in their opinion sufficient for the value of the
+        merchandise, they take it up and go their way; but if not, they
+        embark again in their ships and sit there; and the others approach and
+        straightway add more gold to the former, until they satisfy them:
+        and they say that neither party wrongs the other; for neither do the
+        Carthaginians lay hands on the gold until it is made equal to the value
+        of their merchandise, nor do the others lay hands on the merchandise
+        until the Carthaginians have taken the gold.
+
+------------------------------------------------------------------------
+
+Exchange 4  Follow-up: Agent Search; 0.7 Temperature; Default Prompt
+
+You:
+    If you admit you do not believe everything you hear, why include unverified legends in a serious historical inquiry at all?
+
+Herodotus:
+    You press me fairly, and I will give you my reason plainly. In the opening of my Inquiry I declared my purpose: that the deeds of men not be blotted out by time, nor the works great and marvellous, wrought by Hellenes and by Barbarians, lose their renown, and especially that the causes of their wars be remembered [5]. Now a thing never written down perishes utterly; but a thing written down with its teller named may be weighed, tested, and corrected by any who come after. Were I to keep only what I have seen with my own eyes, my history would be short indeed, and much that men say would vanish without any trace at all.
+
+    So I laid down a rule and announced it openly: I am bound to report that which is reported, though I am not bound altogether to believe it; and let this saying be held to apply to every narrative in the history [1]. Likewise, as to the tales of the Egyptians, any man may accept them to whom they appear credible; it is to be understood throughout the whole history that I write by hearsay that which is reported by each people [2]. I do not smuggle fables in as though they were my own sight-knowledge; I mark them for what they are.
+
+    Consider too that my very disbelief is of use to the reader. Of the men with goats' feet beyond the mountains I say plainly, "though I do not believe it," and of those who sleep six months of the year, "this I do not admit at all as true" [3]; of the one-eyed Arimaspians who carry off gold from the griffins, I do not believe that nature produces such men [4]. Thus the reader receives both the report and my judgment upon it. And see how I trace the road by which a tale travels: the Issedonians report the one-eyed men and the gold-guarding griffins; the Scythians received it from them; and from the Scythians we, the rest of mankind, have got our belief [3]. That chain of telling is itself a fact worth recording, for it shows how such stories come to be believed by all.
+
+    Moreover, a legend often stands beside a truth I can verify. The Egyptians tell how Rhampsinitos went down alive to the place the Hellenes call Hades and played at dice with Demeter; whether that is the cause of their feast I cannot say, but I know of my own knowledge that they keep the feast even to my time [2]. Had I cut away the tale, I should have cut away the priests' own explanation of a rite that is real. The tales of a people are part of their deeds and customs, and to know what men believe is to know something of men.
+
+    And where knowledge simply ends, I mark the boundary rather than fill it with inventions of my own: concerning the region north of the bald-headed men no one can speak with certainty, for impassable mountains divide it off, and no one passes over them [3]. That is not silence but honesty. Remember, finally, that the extremities which bound the world on every side possess, by all appearance, the things we hold most beautiful and rare [4]; what seems incredible in Halicarnassos may be commonplace at the world's edge. Better, then, to hand on the marvel together with its source — for the discerning reader can sift it, but a story never written down can never be judged at all.
+
+    Research:
+    1. Searched “I am bound to say what is said but not obliged to believe it all alike” · 5 found
+    2. Searched “Herodotus explains why he records what is told even if he does not believe it, duty to report human traditions” · 5 found
+    3. Searched “I am not bound to believe it, this saying holds throughout the whole history, about the Arimaspians one-eyed men and griffins” · 5 found
+    4. Searched “I write what is reported by the people of each place, my duty to transmit what is said though not to believe all alike” · 5 found
+
+    Sources:
+
+    [1] The History of Herodotus.txt · part 581
+        and the Argives
+        at that very time had also sent envoys to Susa, and these asked
+        Artoxerxes the son of Xerxes, whether the friendship which they had
+        formed with Xerxes still remained unbroken, if they themselves desired
+        to maintain it, or whether they were esteemed by him to be enemies;
+        and king Artoxerxes said that it most certainly remained unbroken, and
+        that there was no city which he considered to be more his friend than
+        Argos.
+
+        152. Now whether Xerxes did indeed send a herald to Argos saying that
+        which has been reported, and whether envoys of the Argives who had gone
+        up to Susa inquired of Artoxerxes concerning friendship, I am not able
+        to say for certain; nor do I declare any opinion about the matters in
+        question other than that which the Argives themselves report: but I know
+        this much, that if all the nations of men should bring together into one
+        place the evils which they have suffered themselves, desiring to make
+        exchange with their neighbours, each people of them, when they had
+        examined closely the evils suffered by their fellows, would gladly carry
+        away back with them those which they had brought. Thus it is not the
+        Argives who have acted most basely of all. I however am bound to report
+        that which is reported, though I am not bound altogether to believe
+        it; and let this saying be considered to hold good as regards every
+        narrative in the history: for I must add that this also is reported,
+        namely that the Argives were actually those who invited the Persian to
+        invade Hellas, because their war with the Lacedemonians had had an evil
+        issue, being willing to suffer anything whatever rather than the trouble
+        which was then upon them.
+
+    [2] The History of Herodotus.txt · part 181
+        and she
+        when she heard it tried to take hold of him, but the thief held out to
+        her in the darkness the arm of the corpse, which she grasped and held,
+        thinking that she was holding the arm of the man himself; but the thief
+        left it in her hands and departed, escaping through the door. (f) Now
+        when this also was reported to the king, he was at first amazed at the
+        ready invention and daring of the fellow, and then afterwards he sent
+        round to all the cities and made proclamation granting a free pardon to
+        the thief, and also promising a great reward if he would come into his
+        presence. The thief accordingly trusting to the proclamation came to
+        the king, and Rhampsinitos greatly marvelled at him, and gave him this
+        daughter of his to wife, counting him to be the most knowing of all men;
+        for as the Egyptians were distinguished from all other men, so was he
+        from the other Egyptians.
+
+        122. After these things they said this king went down alive to that
+        place which by the Hellenes is called Hades, and there played at dice
+        with Demeter, and in some throws he overcame her and in others he was
+        overcome by her; and he came back again having as a gift from her a
+        handkerchief of gold: and they told me that because of the going down of
+        Rhampsinitos the Egyptians after he came back celebrated a feast, which
+        I know of my own knowledge also that they still observe even to my time;
+        but whether it is for this cause that they keep the feast or for
+        some other, I am not able to say. However, the priests weave a robe
+        completely on the very day of the feast, and forthwith they bind up the
+        eyes of one of them with a fillet, and having led him with the robe to
+        the way by which one goes to the temple of Demeter, they depart back
+        again themselves. This priest, they say, with his eyes bound up is led
+        by two wolves to the temple of Demeter, which is distant from the city
+        twenty furlongs, and then afterwards the wolves lead him back again from
+        the temple to the same spot.
+
+        123. Now as to the tales told by the Egyptians, any man may accept them
+        to whom such things appear credible; as for me, it is to be understood
+        throughout the whole of the history that I write by hearsay that
+        which is reported by the people in each place. The Egyptians say that
+        Demeter and Dionysos are rulers of the world below; and the Egyptians
+        are also the first who reported the doctrine that the soul of man is
+        immortal, and that when the body dies, the soul enters into another
+        creature which chances then to be coming to the birth, and when it has
+        gone the round of all the creatures of land and sea and of the air, it
+        enters again into a human body as it comes to the birth; and that it
+        makes this round in a period of three thousand years. This doctrine
+        certain Hellenes adopted, some earlier and some later, as if it were
+        of their own invention, and of these men I know the names but I abstain
+        from recording them.
+
+    [3] The History of Herodotus.txt · part 314
+        information about the land and about the nations on this side of them;
+        for not only do certain of the Scythians go to them, from whom it is not
+        difficult to get information, but also some of the Hellenes who are at
+        the trading-station of the Borysthenes and the other trading-places of
+        the Pontic coast: and those of the Scythians who go to them transact
+        their business through seven interpreters and in seven different
+        languages.
+
+        25. So far as these, I say, the land is known; but concerning the region
+        to the North of the bald-headed men no one can speak with certainty,
+        for lofty and impassable mountains divide it off, and no one passes over
+        them. However these bald-headed men say (though I do not believe it)
+        that the mountains are inhabited by men with goats' feet; and that after
+        one has passed beyond these, others are found who sleep through six
+        months of the year. This I do not admit at all as true. However, the
+        country to the East of the bald-headed men is known with certainty,
+        being inhabited by the Issedonians, but that which lies beyond both the
+        bald-headed men and the Issedonians towards the North Wind is unknown,
+        except so far as we know it from the accounts given by these nations
+        which have just been mentioned.
+
+        26. The Issedonians are said to have these customs:—when a man's father
+        is dead, all the relations bring cattle to the house, and then having
+        slain them and cut up the flesh, they cut up also the dead body of the
+        father of their entertainer, and mixing all the flesh together they set
+        forth a banquet. His skull however they strip of the flesh and clean it
+        out and then gild it over, and after that they deal with it as a sacred
+        thing and perform for the dead man great sacrifices every year.
+        This each son does for his father, just as the Hellenes keep the day of
+        memorial for the dead. In other respects however this race also is
+        said to live righteously, and their women have equal rights with the
+        men.
+
+        27. These then also are known; but as to the region beyond them, it
+        is the Issedonians who report that there are there one-eyed men and
+        gold-guarding griffins; and the Scythians report this having received it
+        from them, and from the Scythians we, that is the rest of mankind, have
+        got our belief; and we call them in Scythian language Arimaspians, for
+        the Scythians call the number one arima and the eye spu.
+
+    [4] The History of Herodotus.txt · part 279
+        carried off from the griffins by Arimaspians, a one-eyed race of men.
+        But I do not believe this tale either, that nature produces one-eyed
+        men which in all other respects are like other men. However, it would
+        seem that the extremities which bound the rest of the world on every
+        side and enclose it in the midst, possess the things which by us are
+        thought to be the most beautiful and the most rare.
+
+        117. Now there is a plain in Asia bounded by mountains on all sides, and
+        through the mountains there are five clefts. This plain belonged once
+        to the Chorasmians, and it lies on the borders of the Chorasmians
+        themselves, the Hyrcanians, Parthians, Sarangians, and Thamanaians; but
+        from the time that the Persians began to bear rule it belongs to the
+        king. From this enclosing mountain of which I speak there flows a great
+        river, and its name is Akes. This formerly watered the lands of these
+        nations which have been mentioned, being divided into five streams and
+        conducted through a separate cleft in the mountains to each separate
+        nation; but from the time that they have come to be under the Persians
+        they have suffered as follows:—the king built up the clefts in the
+        mountains and set gates at each cleft; and so, since the water has been
+        shut off from its outlet, the plain within the mountains is made into a
+        sea, because the river runs into it and has no way out in any direction.
+        Those therefore who in former times had been wont to make use of the
+        water, not being able now to make use of it are in great trouble: for
+        during the winter they have rain from heaven, as also other men have,
+        but in the summer they desire to use the water when they sow millet and
+        sesame seed. So then, the water not being granted to them, they come to
+        the Persians both themselves and their wives, and standing at the gates
+        of the king's court they cry and howl; and the king orders that for
+        those who need it most, the gates which lead to their land shall be
+        opened; and when their land has become satiated with drinking in the
+        water, these gates are closed, and he orders the gates to be opened for
+        others, that is to say those most needing it of the rest who remain:
+        and, as I have heard, he exacts large sums of money for opening them,
+        besides the regular tribute.
+
+    [5] The History of Herodotus.txt · part 1
+        THE HISTORY OF HERODOTUS
+
+        By Herodotus
+
+        BOOK I. THE FIRST BOOK OF THE HISTORIES, CALLED CLIO
+
+        This is the Showing forth of the Inquiry of Herodotus of Halicarnassos,
+        to the end that neither the deeds of men may be forgotten by lapse
+        of time, nor the works great and marvellous, which have been produced
+        some by Hellenes and some by Barbarians, may lose their renown; and
+        especially that the causes may be remembered for which these waged war
+        with one another.
+
+        1. Those of the Persians who have knowledge of history declare that
+        the Phenicians first began the quarrel. These, they say, came from that
+        which is called the Erythraian Sea to this of ours; and having settled
+        in the land where they continue even now to dwell, set themselves
+        forthwith to make long voyages by sea. And conveying merchandise of
+        Egypt and of Assyria they arrived at other places and also at Argos; now
+        Argos was at that time in all points the first of the States within that
+        land which is now called Hellas;—the Phenicians arrived then at this
+        land of Argos, and began to dispose of their ship's cargo: and on the
+        fifth or sixth day after they had arrived, when their goods had been
+        almost all sold, there came down to the sea a great company of women,
+        and among them the daughter of the king; and her name, as the Hellenes
+        also agree, was Io the daughter of Inachos. These standing near to the
+        stern of the ship were buying of the wares such as pleased them most,
+        when of a sudden the Phenicians, passing the word from one to another,
+        made a rush upon them; and the greater part of the women escaped by
+        flight, but Io and certain others were carried off. So they put them on
+        board their ship, and forthwith departed, sailing away to Egypt.
+
+        2. In this manner the Persians report that Io came to Egypt, not
+        agreeing therein with the Hellenes, and this they say was the first
+        beginning of wrongs. Then after this, they say, certain Hellenes (but
+        the name of the people they are not able to report) put in to the city
+        of Tyre in Phenicia and carried off the king's daughter Europa;—these
+        would doubtless be Cretans;—and so they were quits for the former
+        injury. After this however the Hellenes, they say, were the authors of
+        the second wrong; for they sailed in to Aia of Colchis and to the river
+        Phasis with a ship of war, and from thence, after they had done the
+        other business for which they came, they carried off the king's daughter
+        Medea: and the king of Colchis sent a herald to the land of Hellas and
+        demanded satisfaction for the rape and to have his daughter back; but
+        they answered that, as the Barbarians had given them no satisfaction for
+        the rape of Io the Argive, so neither would they give satisfaction to
+        the Barbarians for this.
+
+------------------------------------------------------------------------
+
+Exchange 5: Agent Search; 0.7 Temperature; Default Prompt
+
+You:
+    At Thermopylae, did Leonidas kick a Persian messenger into a pit shouting 'This is Sparta!', and did Xerxes deploy war elephants and mutated monsters?
+
+Herodotus:
+    No, friend — neither of these things, and I will tell you what inquiry showed me instead, for I write so that the deeds of men may not be effaced by time, and exaggeration effaces truth as surely as silence. I report what is said, but I do not believe every tale alike.
+
+    There is indeed a true story of heralds and a pit, but it belongs to an earlier time and to other hands. When Dareios in former days sent heralds to demand earth and water, the Athenians threw them into the pit and the Lacedemonians into a well, bidding them take earth and water for the king from there [1]. That was long before Leonidas marched out. For that deed the wrath of Talthybios, the herald of Agamemnon, fell upon Sparta, so that no sacrifice gave favorable omens, until Sperthias and Bulis, men of noble birth, voluntarily went to the Medes to pay the penalty with their lives [1]; and for this very reason Xerxes sent no heralds at all to Athens or Sparta [1]. As for the pass itself, the only horseman who came near the Spartans was a rider sent by Xerxes to spy, who saw some of them exercising and some combing their long hair, and marveling, rode away unmolested [2]. When Demaratos told the king that they were preparing to die and to deal death, for it is their custom to array their hair when they put their lives in peril, Xerxes would not believe him [2]. The Spartans answered with deeds, not speeches.
+
+    Nor did the King's host contain monsters — it contained men, wonders enough: the ten thousand Immortals gleaming with gold, with carriages bearing concubines and attendants [3]; Sagartians who fought with ropes and nooses, entangling horse and man [3]; Indian chariots harnessed with horses or wild asses [3]; camels and beasts of burden bearing the provisions [3]. Of elephants my catalogue says nothing; the strangest beasts I knew of were those, and in Thrace even lions fell upon the King's camels by night. When the Medes and Kissians first attacked, they made it evident to every man, and to the king not least, that human beings are many but men are few [2]. The pass was lost not to monsters but to a man, Epialtes, who showed the Barbarians the way over the mountain [4]; Leonidas fell there proving himself a very good man [4]; and the last stood on the hillock, where now the stone lion is, defending themselves with daggers, hands and teeth [4].
+
+    And Xerxes was no god towering above men, but a mortal king, mortal in his passions too: seeing Leonidas dead, he bade them cut off his head and crucify the body — which I note with wonder, for the Persians above all men honor those who are good in war [5]. That anger, and not sorcery, is the true portrait.
+
+    Research:
+    1. Searched “Leonidas Thermopylae Persian messengers killed thrown into pit” · 5 found
+    2. Searched “Xerxes army at Thermopylae troops cavalry exotic units” · 5 found
+    3. Looked for “pit” · 58 found
+    4. Searched “Spartan envoys thrown into pit well earth and water demand” · 5 found
+    5. Searched “elephants in Xerxes army” · 5 found
+    6. Looked for “elephant” · 16 found
+    7. Searched “nations of Xerxes army list Ethiopians camels chariots equipment” · 5 found
+    8. Searched “first assault Thermopylae Medes Cissians Xerxes watched Spartans combing hair” · 5 found
+
+    Sources:
+
+    [1] The History of Herodotus.txt · part 570
+        Thebans, with the rest of the Boeotians also excepting the Thespians and
+        Plataians. Against these the Hellenes who took up war with the Barbarian
+        made an oath; and the oath was this,--that whosoever being Hellenes had
+        given themselves over to the Persian, not being compelled, these, if
+        their own affairs should come to a good conclusion, they would dedicate
+        as an offering to the god at Delphi.
+
+        133. Thus ran the oath which was taken by the Hellenes: Xerxes however
+        had not sent to Athens or to Sparta heralds to demand the gift of earth,
+        and for this reason, namely because at the former time when Dareios had
+        sent for this very purpose, the one people threw the men who made the
+        demand into the pit and the others into a well, and bade them take
+        from thence earth and water and bear them to the king. For this reason
+        Xerxes did not send men to make this demand. And what evil thing 116
+        came upon the Athenians for having done this to the heralds, I am not
+        able to say, except indeed that their land and city were laid waste; but
+        I do not think that this happened for that cause:
+
+        134, on the Lacedemonians however the wrath fell of Talthybios, the
+        herald of Agamemnon; for in Sparta there is a temple of Talthybios, and
+        there are also descendants of Talthybios called Talthybiads, to whom
+        have been given as a right all the missions of heralds which go from
+        Sparta; and after this event it was not possible for the Spartans when
+        they sacrificed to obtain favourable omens. This was the case with them
+        for a long time; and as the Lacedemonians were grieved and regarded it
+        as a great misfortune, and general assemblies were repeatedly gathered
+        together and proclamation made, asking if any one of the Lacedemonians
+        was willing to die for Sparta, at length Sperthias the son of Aneristos
+        and Bulis the son of Nicolaos, Spartans of noble birth and in wealth
+        attaining to the first rank, voluntarily submitted to pay the penalty to
+        Xerxes for the heralds of Dareios which had perished at Sparta. Thus the
+        Spartans sent these to the Medes to be put to death.
+
+    [2] The History of Herodotus.txt · part 609
+        So then he saw some of the men practising athletic exercises and
+        some combing their long hair: and as he looked upon these things he
+        marvelled, and at the same time he observed their number: and when he
+        had observed all exactly, he rode back unmolested, for no one attempted
+        to pursue him and he found himself treated with much indifference. And
+        when he returned he reported to Xerxes all that which he had seen.
+
+        209. Hearing this Xerxes was not able to conjecture the truth about the
+        matter, namely that they were preparing themselves to die and to deal
+        death to the enemy so far as they might; but it seemed to him that they
+        were acting in a manner merely ridiculous; and therefore he sent for
+        Demaratos the son of Ariston, who was in his camp, and when he came,
+        Xerxes asked him of these things severally, desiring to discover what
+        this was which the Lacedemonians were doing: and he said: "Thou didst
+        hear from my mouth at a former time, when we were setting forth to go
+        against Hellas, the things concerning these men; and having heard them
+        thou madest me an object of laughter, because I told thee of these
+        things which I perceived would come to pass; for to me it is the
+        greatest of all ends to speak the truth continually before thee, O
+        king. Hear then now also: these men have come to fight with us for the
+        passage, and this is it that they are preparing to do; for they have a
+        custom which is as follows;--whenever they are about to put their lives
+        in peril, then they attend to the arrangement of their hair. Be assured
+        however, that if thou shalt subdue these and the rest of them which
+        remain behind in Sparta, there is no other race of men which will await
+        thy onset, O king, or will raise hands against thee: for now thou art
+        about to fight against the noblest kingdom and city of those which are
+        among the Hellenes, and the best men." To Xerxes that which was said
+        seemed to be utterly incredible, and he asked again a second time in
+        what manner being so few they would fight with his host. He said; "O
+        king, deal with me as with a liar, if thou find not that these things
+        come to pass as I say."
+
+        210. Thus saying he did not convince Xerxes, who let four days go by,
+        expecting always that they would take to flight; but on the fifth day,
+        when they did not depart but remained, being obstinate, as he thought,
+        in impudence and folly, he was enraged and sent against them the Medes
+        and the Kissians, charging them to take the men alive and bring them
+        into his presence. Then when the Medes moved forward and attacked
+        the Hellenes, there fell many of them, and others kept coming up
+        continually, and they were not driven back, though suffering great loss:
+        and they made it evident to every man, and to the king himself not least
+        of all, that human beings are many but men are few. This combat went on
+        throughout the day:
+
+    [3] The History of Herodotus.txt · part 552
+        and over these and over the whole army together that went on foot there
+        were in command Mardonios the son of Gobryas, Tritantaichmes the son of
+        that Artabanos who gave the opinion that they should not make the march
+        against Hellas, Smerdomenes the son of Otanes (both these being sons of
+        brothers of Dareios and so cousins of Xerxes), Masistes the son of
+        Dareios and Atossa, Gergis the son of Ariazos, and Megabyzos the son of
+        Zopyros.
+
+        83. These were generals of the whole together that went on foot,
+        excepting the ten thousand; and of these ten thousand chosen Persians
+        the general was Hydarnes the son of Hydarnes; and these Persians
+        were called "Immortals," because, if any one of them made the number
+        incomplete, being overcome either by death or disease, another man was
+        chosen to his place, and they were never either more or fewer than
+        ten thousand. Now of all the nations, the Persians showed the greatest
+        splendour of ornament and were themselves the best men. They had
+        equipment such as has been mentioned, and besides this they were
+        conspicuous among the rest for great quantity of gold freely used; and
+        they took with them carriages, and in them concubines and a multitude
+        of attendants well furnished; and provisions for them apart from the
+        soldiers were borne by camels and beasts of burden.
+
+        84. The nations who serve as cavalry are these; not all however supplied
+        cavalry, but only as many as here follow:--the Persians equipped in the
+        same manner as their foot-soldiers, except that upon their heads some of
+        them had beaten-work of metal, either bronze or iron.
+
+        85. There are also certain nomads called Sagartians, Persian in race
+        and in language and having a dress which is midway between that of the
+        Persians and that of the Pactyans. These furnished eight thousand horse,
+        and they are not accustomed to have any arms either of bronze or of iron
+        excepting daggers, but they use ropes twisted of thongs, and trust to
+        these when they go into war: and the manner of fighting of these men is
+        as follows:--when they come to conflict with the enemy, they throw the
+        ropes with nooses at the end of them, and whatsoever the man catches by
+        the throw, whether horse or man, he draws to himself, and they being
+        entangled in toils are thus destroyed.
+
+        86. This is the manner of fighting of these men, and they were arrayed
+        next to the Persians. The Medes had the same equipment as their men
+        on foot, and the Kissians likewise. The Indians were armed in the same
+        manner as those of them who served on foot, and they both rode horses
+        and drove chariots, in which were harnessed horses or wild asses. The
+        Bactrians were equipped in the same way as those who served on foot,
+        and the Caspians likewise. The Libyans too were equipped like those who
+        served on foot, and these also all drove chariots. So too the Caspians
+        and Paricanians were equipped like those who served on foot, and they
+        all rode on camels, which in swiftness were not inferior to horses.
+
+    [4] The History of Herodotus.txt · part 616
+        many more still were trodden down while yet alive by one another, and
+        there was no reckoning of the number that perished: for knowing the
+        death which was about to come upon them by reason of those who were
+        going round the mountain, they displayed upon the Barbarians all the
+        strength which they had, to its greatest extent, disregarding danger and
+        acting as if possessed by a spirit of recklessness.
+
+        224. Now by this time the spears of the greater number of them were
+        broken, so it chanced, in this combat, and they were slaying the
+        Persians with their swords; and in this fighting fell Leonidas, having
+        proved himself a very good man, and others also of the Spartans with
+        him, men of note, of whose names I was informed as of men who had proved
+        themselves worthy, and indeed I was told also the names of all the three
+        hundred. Moreover of the Persians there fell here, besides many others
+        of note, especially two sons of Dareios, Abrocomes and Hyperanthes, born
+        to Dareios of Phratagune the daughter of Artanes: now Artanes was the
+        brother of king Dareios and the son of Hystaspes, the son of Arsames;
+        and he in giving his daughter in marriage to Dareios gave also with her
+        all his substance, because she was his only child.
+
+        225. Two brothers of Xerxes, I say, fell here fighting; and meanwhile
+        over the body of Leonidas there arose a great struggle between the
+        Persians and the Lacedemonians, until the Hellenes by valour dragged
+        this away from the enemy and turned their opponents to flight four
+        times. This conflict continued until those who had gone with Epialtes
+        came up; and when the Hellenes learnt that these had come, from that
+        moment the nature of the combat was changed; for they retired backwards
+        to the narrow part of the way, and having passed by the wall they went
+        and placed themselves upon the hillock, all in a body together
+        except only the Thebans: now this hillock is in the entrance, where
+        now the stone lion is placed for Leonidas. On this spot while defending
+        themselves with daggers, that is those who still had them left, and also
+        with hands and with teeth, they were overwhelmed by the missiles of
+        the Barbarians, some of these having followed directly after them and
+        destroyed the fence of the wall, while others had come round and stood
+        about them on all sides.
+
+    [5] The History of Herodotus.txt · part 622
+        suggest that which seemed to him the best, unless he had attained to a
+        great height of virtue, and such men doubtless are few; yet guest-friend
+        to guest-friend in prosperity is well-disposed as nothing else on
+        earth, and if his friend should consult him, he would give him the best
+        counsel. Thus then as regards the evil-speaking against Demaratos, that
+        is to say about one who is my guest-friend, I bid every one abstain from
+        it in the future."
+
+        238. Having thus said Xerxes passed in review the bodies of the dead;
+        and as for Leonidas, hearing that he had been the king and commander of
+        the Lacedemonians he bade them cut off his head and crucify him. And
+        it has been made plain to me by many proofs besides, but by none more
+        strongly than by this, that king Xerxes was enraged with Leonidas while
+        alive more than with any other man on earth; for otherwise he would
+        never have done this outrage to his corpse; since of all the men whom I
+        know, the Persians are accustomed most to honour those who are good men
+        in war. They then to whom it was appointed to do these things, proceeded
+        to do so.
+
+        239. I will return now to that point of my narrative where it remained
+        unfinished. The Lacedemonians had been informed before all others
+        that the king was preparing an expedition against Hellas; and thus it
+        happened that they sent to the Oracle at Delphi, where that reply was
+        given them which I reported shortly before this. And they got this
+        information in a strange manner; for Demaratos the son of Ariston
+        after he had fled for refuge to the Medes was not friendly to the
+        Lacedemonians, as I am of opinion and as likelihood suggests supporting
+        my opinion; but it is open to any man to make conjecture whether he did
+        this thing which follows in a friendly spirit or in malicious triumph
+        over them. When Xerxes had resolved to make a campaign against Hellas,
+        Demaratos, being in Susa and having been informed of this, had a desire
+        to report it to the Lacedemonians. Now in no other way was he able to
+        signify it, for there was danger that he should be discovered, but he
+        contrived thus, that is to say, he took a folding tablet and scraped off
+        the wax which was upon it, and then he wrote the design of the king upon
+        the wood of the tablet, and having done so he melted the wax and poured
+        it over the writing, so that the tablet (being carried without writing
+        upon it) might not cause any trouble to be given by the keepers of the
+        road. Then when it had arrived at Lacedemon, the Lacedemonians were not
+        able to make conjecture of the matter; until at last, as I am informed,
+        Gorgo, the daughter of Cleomenes and wife of Leonidas, suggested a plan
+        of which she had herself thought, bidding them scrape the wax and they
+        would find writing upon the wood; and doing as she said they found
+        the writing and read it, and after that they sent notice to the other
+        Hellenes. These things are said to have come to pass in this manner.
+
+        BOOK VIII. THE EIGHTH BOOK OF THE HISTORIES, CALLED URANIA
+
+------------------------------------------------------------------------
+
+Exchange 5  Follow-up: Agent Search; 0.7 Temperature; Default Prompt
+
+You:
+    What about Alexander the Great's later conquest of Persia—how does it compare to Xerxes's campaign in your view?
+
+Herodotus:
+    Friend, you ask me of a thing that lies beyond my inquiry. I am a man of Halicarnassos who set down what came within my own knowledge and the knowledge of those I questioned, and my story is of the feud between the Hellenes and the Persians. Of any Alexander who overthrew the Persian power I know nothing, and I do not invent what I have not learned. But there is an Alexander I know very well — Alexander the son of Amyntas, king of the Macedonians — and if you will hear of him, he is a study in how a small power survives beside a great one.
+
+    His house came from Argos: from Perdiccas, who fled the wrath of a king with his brothers, and when horsemen were sent after them to slay them, the river they had crossed rose in such flood that the pursuers could not follow, and the brothers settled near the gardens of Midas, where the roses have sixty petals, and made themselves kings of the Macedonians [3]. When Persian envoys came demanding earth and water, Alexander entertained them and set Macedonian men in the guise of women at their side, who slew them in the night when they laid hands upon them; and he stopped the great search that followed by giving large sums to Bubares and his own sister Gygaia to wife [2]. From that marriage the Persians counted him kinsman and guest-friend, and this is why Mardonios chose him above all men to carry his offers to Athens [5], where he spoke the king's words, magnifying a power above that of a man, whose arm is very long [1]. Yet this same man, on the night before Plataea, rode alone to the Athenian guard-posts and warned the generals that Mardonios would bring on battle at dawn — saying that he was a Hellene by original descent and would not wish to see Hellas enslaved instead of free, and begging that the Hellenes remember him concerning liberation, since he had hazarded so much for their sake [4]. And when the Hellanodicai at Olympia were for barring him from the games as a Barbarian, he proved his descent from Argos and ran [2]. Such was the man: he served the Persian with his mouth and, if I judge him, the Hellene with his heart, and kept his little kingdom alive between two great beasts.
+
+    Now as to your comparison — I cannot measure what I have not seen. But I will tell you the pattern all my inquiry has taught me. Empire passes from hand to hand: the Assyrians first held it, then the Medes cast them down, then Cyrus the Persian cast down the Medes; and human fortune never abides in the same place, for the god strikes down the tallest trees and the greatest houses with his thunderbolt. Xerxes came with the greatest host men have known, bridged the Hellespont, and whipped the sea as if it were a slave — and was thrown back by men who were few but free. If ever a king of that Macedonian house led Hellenes east against the Persians in their turn, it would be no new thing under the sun but the same wheel turning, the small made great and the great brought small. And I note one thing more: Alexander son of Amyntas begged the Athenians to remember him for the liberation of Hellas [4]. If his descendants ever claimed that liberation as their own deed, they would only be calling in a debt their house laid claim to long ago. Whether such a thing comes to pass, the god knows and time will show; I set down only what inquiry has shown me.
+
+    Research:
+    1. Searched “Alexander of Macedon son of Amyntas helps Greeks during Persian Wars” · 5 found
+    2. Searched “Alexander Macedonian advises Athenians before battle of Plataea” · 5 found
+    3. Looked for “Alexander” · 26 found
+    4. Searched “Artabanos god strikes down tallest beasts and trees suffers not pride in any but himself” · 5 found
+    5. Searched “Xerxes wept reviewing his army none alive in a hundred years” · 5 found
+    6. Read around The History of Herodotus.txt, part 522
+    7. Searched “Artabanos god strikes down tallest trees and beasts suffers not pride in any but himself” · 5 found
+    8. Read around The History of Herodotus.txt, part 521
+
+    Sources:
+
+    [1] The History of Herodotus.txt · part 684
+        Having taken
+        possession of that region, they made this their starting-point, and
+        proceeded to subdue also the rest of Macedonia.
+
+        139. From this Perdiccas the descent of Alexander was as
+        follows:—Alexander was the son of Amyntas, Amyntas was the son of
+        Alketes, the father of Alketes was Aëropos, of him Philip, of Philip
+        Argaios, and of this last the father was Perdiccas, who first obtained
+        the kingdom.
+
+        140. Thus then, I say, Alexander the son of Amyntas was descended; and
+        when he came to Athens sent from Mardonios, he spoke as follows: (a)
+        "Athenians, Mardonios speaks these words:—There has come to me a message
+        from the king which speaks in this manner:—To the Athenians I remit all
+        the offences which were committed against me: and now, Mardonios,
+        thus do,—first give them back their own land; then let them choose
+        for themselves another in addition to this, whichsoever they desire,
+        remaining independent; and set up for them again all their temples,
+        which I set on fire, provided that they consent to make a treaty with
+        me. This message having come to me, it is necessary for me to do so,
+        unless by your means I am prevented: and thus I speak to you now:—Why
+        are ye so mad as to raise up war against the king? since neither will ye
+        overcome him, nor are ye able to hold out against him for ever: for
+        ye saw the multitude of the host of Xerxes and their deeds, and ye are
+        informed also of the power which is with me at the present time; so that
+        even if ye overcome and conquer us (of which ye can have no hope if ye
+        are rightly minded), another power will come many times as large. Do
+        not ye then desire to match yourselves with the king, and so to be both
+        deprived of your land and for ever running a course for your own lives;
+        but make peace with him: and ye have a most honourable occasion to make
+        peace, since the king has himself set out upon this road: agree to a
+        league with us then without fraud or deceit, and remain free. (b) These
+        things Mardonios charged me to say to you, O Athenians; and as for me,
+        I will say nothing of the goodwill towards you on my part, for ye
+        would not learn that now for the first time; but I ask of you to do as
+        Mardonios says, since I perceive that ye will not be able to war with
+        Xerxes for ever,—if I perceived in you ability to do this, I should
+        never have come to you speaking these words,—for the power of the king
+        is above that of a man and his arm is very long. If therefore ye do not
+        make an agreement forthwith, when they offer you great things as the
+        terms on which they are willing to make a treaty, I have fear on your
+        behalf, seeing that ye dwell more upon the highway than any of your
+        allies, and are exposed ever to destruction alone, the land which ye
+        possess being parted off from the rest and lying between the armies
+        which are contending together. Nay, but be persuaded, for this is
+        a matter of great consequence to you, that to you alone of the Hellenes
+        the great king remits the offences committed and desires to become a
+        friend.
+
+    [2] The History of Herodotus.txt · part 399
+        our mothers and our sisters, in order that ye may perceive fully that
+        ye are honoured by us with that treatment which ye deserve, and also in
+        order that ye may report to the king who sent you that a man of Hellas,
+        ruler under him of the Macedonians, entertained you well at board and
+        bed." Having thus said Alexander caused a Macedonian man in the guise of
+        a woman to sit by each Persian, and they, when the Persians attempted to
+        lay hands on them, slew them.
+
+        21. So these perished by this fate, both they themselves and their
+        company of servants; for there came with them carriages and servants and
+        all the usual pomp of equipage, and this was all made away with at the
+        same time as they. Afterwards in no long time a great search was made by
+        the Persians for these men, and Alexander stopped them with cunning
+        by giving large sums of money and his own sister, whose name was
+        Gygaia;--by giving, I say, these things to Bubares a Persian, commander
+        of those who were searching for the men who had been killed, Alexander
+        stopped their search.
+
+        22. Thus the death of these Persians was kept concealed. And that these
+        descendants of Perdiccas are Hellenes, as they themselves say, I happen
+        to know myself, and not only so, but I will prove in the succeeding
+        history that they are Hellenes. Moreover the Hellanodicai, who manage
+        the games at Olympia, decided that they were so: for when Alexander
+        wished to contend in the games and had descended for this purpose into
+        the arena, the Hellenes who were to run against him tried to exclude
+        him, saying that the contest was not for Barbarians to contend in but
+        for Hellenes: since however Alexander proved that he was of Argos,
+        he was judged to be a Hellene, and when he entered the contest of the
+        foot-race his lot came out with that of the first. 11
+
+    [3] The History of Herodotus.txt · part 683
+        So then Gauanes and Aëropos the
+        elder brothers stood struck with amazement when they heard this, but
+        the boy, who happened to have in his hand a knife, said these words: "We
+        accept, O king, that which thou dost give;" and he traced a line with
+        his knife round the sunlight on the floor of the house, and having
+        traced the line round he thrice drew of the sunlight into his bosom, and
+        after that he departed both himself and his fellows.
+
+        138. They then were going away, and to the king one of those who sat
+        by him at table told what manner of thing the boy had done, and how the
+        youngest of them had taken that which was given with some design: and
+        he hearing this and being moved with anger, sent after them horsemen to
+        slay them. Now there is a river in this land to which the descendents of
+        these men from Argos sacrifice as a saviour. This river, so soon as the
+        sons of Temenos had passed over it, began to flow with such great volume
+        of water that the horsemen became unable to pass over. So the brothers,
+        having come to another region of Macedonia, took up their dwelling near
+        the so-called gardens of Midas the son of Gordias, where roses grow wild
+        which have each one sixty petals and excel all others in perfume.
+        In these gardens too Silenos was captured, as is reported by the
+        Macedonians: and above the gardens is situated a mountain called
+        Bermion, which is inaccessible by reason of the cold. Having taken
+        possession of that region, they made this their starting-point, and
+        proceeded to subdue also the rest of Macedonia.
+
+        139. From this Perdiccas the descent of Alexander was as
+        follows:—Alexander was the son of Amyntas, Amyntas was the son of
+        Alketes, the father of Alketes was Aëropos, of him Philip, of Philip
+        Argaios, and of this last the father was Perdiccas, who first obtained
+        the kingdom.
+
+    [4] The History of Herodotus.txt · part 710
+        battle,
+
+        "The gathering of Hellenes together and cry of Barbarian voices,
+        Where the Thermodon flows, by the banks of grassy Asopos;
+        Here very many shall fall ere destiny gave them to perish,
+        Medes bow-bearing in fight, when the fatal day shall approach them,"—
+
+        these sayings, and others like them composed by Musaios, I know had
+        reference to the Persians. Now the river Thermodon flows between Tanagra
+        and Glisas.
+
+        44. After the inquiry about the oracles and the exhortation given by
+        Mardonios night came on and the guards were set: and when night was far
+        advanced, and it seemed that there was quiet everywhere in the camps,
+        and that the men were in their deepest sleep, then Alexander the son of
+        Amyntas, commander and king of the Macedonians, rode his horse up to
+        the guard-posts of the Athenians and requested that he might have speech
+        with their generals. So while the greater number of the guards stayed at
+        their posts, some ran to the generals, and when they reached them they
+        said that a man had come riding on a horse out of the camp of the Medes,
+        who discovered nothing further, but only named the generals and said
+        that he desired to have speech with them..
+
+        45. Having heard this, forthwith they accompanied the men to the
+        guard-posts, and when they had arrived there, Alexander thus spoke
+        to them: "Athenians, I lay up these words of mine as a trust to you,
+        charging you to keep them secret and tell them to no one except only to
+        Pausanias, lest ye bring me to ruin: for I should not utter them if I
+        did not care greatly for the general safety of Hellas, seeing that I am
+        a Hellene myself by original descent and I should not wish to see Hellas
+        enslaved instead of free. I say then that Mardonios and his army cannot
+        get the offerings to be according to their mind, for otherwise ye
+        would long ago have fought. Now however he has resolved to let the
+        offerings alone and to bring on a battle at dawn of day; for, as
+        I conjecture, he fears lest ye should assemble in greater numbers.
+        Therefore prepare yourselves; and if after all Mardonios should put
+        off the battle and not bring it on, stay where ye are and hold out
+        patiently; for they have provisions only for a few days remaining. And
+        if this way shall have its issue according to your mind, then each one
+        of you ought to remember me also concerning liberation, since I have
+        done for the sake of the Hellenes so hazardous a deed by reason of my
+        zeal for you, desiring to show you the design of Mardonios, in order
+        that the Barbarians may not fall upon you when ye are not as yet
+        expecting them: and I am Alexander the Macedonian." Thus having spoken
+        he rode away back to the camp and to his own position.
+
+    [5] The History of Herodotus.txt · part 681
+        Barbarian instead of the Hellenic tongue, and did not know what to make
+        of the matter before them, it is said that the man of Europos, Mys,
+        snatched from them the tablet which they bore and wrote upon it that
+        which was being spoken by the prophet; and he said that the prophet was
+        giving his answer in the Carian tongue: and then when he had written it,
+        he went away and departed to Thessaly.
+
+        136. Mardonios having read that which the Oracles uttered, whatever that
+        was, after this sent as an envoy to Athens Alexander the son of Amyntas,
+        the Macedonian, both because the Persians were connected with him by
+        marriage, (for Gygaia the sister of Alexander and daughter of Amyntas
+        had been married to a Persian Bubares, and from her had been born
+        to him that Amyntas who lived in Asia, having the name of his mother's
+        father, to whom the king gave Alabanda, a great city of Phrygia,
+        to possess), and also Mardonios was sending him because he was
+        informed that Alexander was a public guest-friend and benefactor of the
+        Athenians; for by this means he thought that he would be most likely to
+        gain over the Athenians to his side, about whom he heard that they were
+        a numerous people and brave in war, and of whom he knew moreover that
+        these were they who more than any others had brought about the disasters
+        which had befallen the Persians by sea. Therefore if these should be
+        added to him, he thought that he should easily have command of the sea
+        (and this in fact would have been the case), while on land he supposed
+        himself to be already much superior in force. Thus he reckoned that his
+        power would be much greater than that of the Hellenes. Perhaps also the
+        Oracles told him this beforehand, counselling him to make the Athenian
+        his ally, and so he was sending in obedience to their advice.
+
+------------------------------------------------------------------------
+
+Exchange 6.1: Agent Search; 0.7 Temperature; Default Prompt
+
+You:
+    According to Book II, what are the three explanations Greeks give for why the Nile floods in summer, and which explanation do you personally believe?
+
+Herodotus:
+    You ask of the Nile, whose nature has puzzled more men than almost any river I know. When I inquired of the Egyptians themselves, they could tell me nothing of the power by which it behaves opposite to all other rivers, rising in summer and falling in winter [1]. But certain Hellenes, desiring to win reputation for cleverness, have given three accounts of it [1].
+
+    The first says that the Etesian Winds are the cause, preventing the river from flowing out into the sea. But this I do not think worth much, for often those winds fail and yet the Nile does the same work as it is wont to do; and moreover, if the winds were the cause, all the other rivers of Syria and Libya that run against those winds ought to behave in the same way — and more so, since they are smaller and feebler — yet they are affected in no such manner [1].
+
+    The second says the river floods because it flows from the Ocean, which flows round the whole earth. But this tale carries the matter into the region of the unknown, and so needs no refutation; for I for my part know of no river Ocean existing — I think Homer, or one of the poets before him, invented the name and brought it into his verse [1, 2].
+
+    The third is the most specious of all, and yet the most mistaken: that the Nile rises because it flows from melting snow. How could that be, when it flows out of Libya through the midst of the Ethiopians, from the hottest lands to the cooler? The winds that blow from those regions are hot; the land is rainless and without frost; the people there are black by reason of the burning heat; and kites and swallows remain there all the year, while cranes fleeing the winter of Scythia come there to winter. If snow fell in those parts, none of these things could be [1, 2].
+
+    Since I have found fault with the opinions of others, I am bound to declare my own. I hold that the Sun is the cause. In winter he is driven from his path by the stormy winds and passes over the upper parts of Libya, drawing the water to himself from all rivers alike — but the Nile, having no rain to feed it, alone bears the burden, and so runs low. In summer the Sun returns to the midst of the heaven, drawing equally from all; the other rivers swell with rain, but the Nile, lacking rain, is drawn upon alone and so sinks — nay, rather, the water the Sun drew up in winter over Libya he scatters as rain, and thus the river rises in the season when others fail [2]. The same Sun, I believe, makes the air there dry and gives Libya an everlasting summer [2]. And it is for this reason too, I think, that no breeze blows from the river: from very hot places it is not natural that anything should blow, for a breeze rises from something cold [2].
+
+    As for the sources of the Nile, not one of the Egyptians, Libyans, or Hellenes who spoke with me professed to know — save only the scribe of the sacred treasury of Athene at Saïs, who told of fathomless springs between two peaks called Crophi and Mophi, near Syene and Elephantine. Him I judged not to be speaking seriously [3].
+
+    Research:
+    1. Searched “Nile flooding summer three explanations Greeks” · 5 found
+    2. Looked for “Nile” · 40 found
+
+    Sources:
+
+    [1] The History of Herodotus.txt · part 130
+        the whole winter season it continues to be low, and until the summer
+        solstice returns. Of none of these things was I able to receive any
+        account from the Egyptians, when I inquired of them what power the Nile
+        has whereby it is of a nature opposite to that of other rivers. And
+        I made inquiry, desiring to know both this which I say and also why,
+        unlike all other rivers, it does not give rise to any breezes blowing
+        from it.
+
+        20. However some of the Hellenes who desired to gain distinction for
+        cleverness have given an account of this water in three different ways:
+        two of these I do not think it worth while even to speak of except only
+        to indicate their nature; of which the one says that the Etesian Winds
+        are the cause that makes the river rise, by preventing the Nile from
+        flowing out into the sea. But often the Etesian Winds fail and yet the
+        Nile does the same work as it is wont to do; and moreover, if these were
+        the cause, all the other rivers also which flow in a direction opposed
+        to the Etesian Winds ought to have been affected in the same way as the
+        Nile, and even more, in as much as they are smaller and present to them
+        a feebler flow of stream: but there are many of these rivers in Syria
+        and many also in Libya, and they are affected in no such manner as the
+        Nile.
+
+        21. The second way shows more ignorance than that which has been
+        mentioned, and it is more marvellous to tell; for it says that the
+        river produces these effects because it flows from the Ocean, and that
+        the Ocean flows round the whole earth.
+
+        22. The third of the ways is much the most specious, but nevertheless it
+        is the most mistaken of all: for indeed this way has no more truth in
+        it than the rest, alleging as it does that the Nile flows from melting
+        snow; whereas it flows out of Libya through the midst of the Ethiopians,
+        and so comes out into Egypt. How then should it flow from snow, when it
+        flows from the hottest parts to those which are cooler? And indeed most
+        of the facts are such as to convince a man (one at least who is capable
+        of reasoning about such matters), that it is not at all likely that it
+        flows from snow. The first and greatest evidence is afforded by the
+        winds, which blow hot from these regions; the second is that the land
+        is rainless always and without frost, whereas after snow has fallen rain
+        must necessarily come within five days, so that if it snowed in those
+        parts rain would fall there; the third evidence is afforded by the
+        people dwelling there, who are of a black colour by reason of the
+        burning heat. Moreover kites and swallows remain there through the year
+        and do not leave the land; and cranes flying from the cold weather which
+        comes on in the region of Scythia come regularly to these parts for
+        wintering: if then it snowed ever so little in that land through which
+        the Nile flows and in which it has its rise, none of these things would
+        take place, as necessity compels us to admit.
+
+    [2] The History of Herodotus.txt · part 131
+        burning heat. Moreover kites and swallows remain there through the year
+        and do not leave the land; and cranes flying from the cold weather which
+        comes on in the region of Scythia come regularly to these parts for
+        wintering: if then it snowed ever so little in that land through which
+        the Nile flows and in which it has its rise, none of these things would
+        take place, as necessity compels us to admit.
+
+        23. As for him who talked about the Ocean, he carried his tale into the
+        region of the unknown, and so he need not be refuted; since I for my
+        part know of no river Ocean existing, but I think that Homer or one of
+        the poets who were before him invented the name and introduced it into
+        his verse.
+
+        24. If however after I have found fault with the opinions proposed, I
+        am bound to declare an opinion of my own about the matters which are in
+        doubt, I will tell what to my mind is the reason why the Nile increases
+        in the summer. In the winter season the Sun, being driven away from
+        his former path through the heaven by the stormy winds, comes to the
+        upper parts of Libya. If one would set forth the matter in the shortest
+        way, all has now been said; for whatever region this god approaches most
+        and stands directly above, this it may reasonably be supposed is most in
+        want of water, and its native streams of rivers are dried up most.
+
+        25. However, to set it forth at greater length, thus it is:—the Sun
+        passing in his course by the upper parts of Libya, does thus, that is to
+        say, since at all times the air in those parts is clear and the country
+        is warm, because there are no cold winds, in passing through it the
+        Sun does just as he was wont to do in the summer, when going through the
+        midst of the heaven, that is he draws to himself the water, and having
+        drawn it he drives it away to the upper parts of the country, and the
+        winds take it up and scattering it abroad melt it into rain; so it is
+        natural that the winds which blow from this region, namely the South
+        and South-west Winds, should be much the most rainy of all the winds. I
+        think however that the Sun does not send away from himself all the water
+        of the Nile of each year, but that he also lets some remain behind with
+        himself. Then when the winter becomes milder, the Sun returns back again
+        to the midst of the heaven, and from that time onwards he draws equally
+        from all rivers; but in the meanwhile they flow in large volume, since
+        water of rain mingles with them in great quantity, because their country
+        receives rain then and is filled with torrent streams. In summer however
+        they are weak, since not only the showers of rain fail then, but also
+        they are drawn by the Sun. The Nile however, alone of all rivers, not
+        having rain and being drawn by the Sun, naturally flows during this time
+        of winter in much less than its proper volume, that is much less than in
+        summer; for then it is drawn equally with all the other waters, but
+        in winter it bears the burden alone. Thus I suppose the Sun to be the
+        cause of these things.
+
+    [3] The History of Herodotus.txt · part 132
+        they are weak, since not only the showers of rain fail then, but also
+        they are drawn by the Sun. The Nile however, alone of all rivers, not
+        having rain and being drawn by the Sun, naturally flows during this time
+        of winter in much less than its proper volume, that is much less than in
+        summer; for then it is drawn equally with all the other waters, but
+        in winter it bears the burden alone. Thus I suppose the Sun to be the
+        cause of these things.
+
+        26. He is also the cause in my opinion that the air in these parts is
+        dry, since he makes it so by scorching up his path through the heaven:
+        thus summer prevails always in the upper parts of Libya. If however
+        the station of the seasons had been changed, and where now in the heaven
+        are placed the North Wind and winter, there was the station of the South
+        Wind and of the midday, and where now is placed the South Wind, there
+        was the North, if this had been so, the Sun being driven from the midst
+        of the heaven by the winter and the North Wind would go to the upper
+        parts of Europe, just as now he comes to the upper parts of Libya, and
+        passing in his course throughout the whole of Europe I suppose that he
+        would do to the Ister that which he now works upon the Nile.
+
+        27. As to the breeze, why none blows from the river, my opinion is that
+        from very hot places it is not natural that anything should blow, and
+        that a breeze is wont to blow from something cold.
+
+        28. Let these matters then be as they are and as they were at the first:
+        but as to the sources of the Nile, not one either of the Egyptians or of
+        the Libyans or of the Hellenes, who came to speech with me, professed to
+        know anything, except the scribe of the sacred treasury of Athene at the
+        city of Saïs in Egypt. To me however this man seemed not to be speaking
+        seriously when he said that he had certain knowledge of it; and he said
+        as follows, namely that there were two mountains of which the tops ran
+        up to a sharp point, situated between the city of Syene, which is in
+        the district of Thebes, and Elephantine, and the names of the mountains
+        were, of the one Crophi and of the other Mophi. From the middle between
+        these two mountains flowed (he said) the sources of the Nile, which were
+        fathomless in depth, and half of the water flowed to Egypt and towards
+        the North Wind, the other half to Ethiopia and the South Wind. As for
+        the fathomless depth of the source, he said that Psammetichos king of
+        Egypt came to a trial of this matter; for he had a rope twisted of many
+        thousands of fathoms and let it down in this place, and it found no
+        bottom. By this the scribe (if this which he told me was really as he
+        said) gave me to understand that there were certain strong eddies
+        there and a backward flow, and that since the water dashed against the
+        mountains, therefore the sounding-line could not come to any bottom when
+        it was let down.
+
+------------------------------------------------------------------------
+
+Exchange 6.2: Agent Search; 0.7 Temperature; Adjusted Prompt
+Adjusted Prompt: add "Please give a super short answer, maximum 100 words"
+
+You:
+    According to Book II, what are the three explanations Greeks give for why the Nile floods in summer, and which explanation do you personally believe?
+
+Herodotus:
+    The Hellenes give three accounts. The first blames the Etesian Winds, saying they block the river's mouth — but often those winds fail and the Nile rises all the same [1]. The second says it flows from the Ocean, which circles the earth; that man carries his tale into the unknown, and I know of no river Ocean — Homer or some poet invented it [1, 2]. The third, melting snow, is the most specious yet most mistaken: how should it flow from snow, coming from the hottest lands, where kites and swallows stay all year? [1]
+
+    My own belief: the Sun. In winter he drives to upper Libya, drawing water from the river, so it runs low; returning to mid-heaven in summer, he draws equally from all rivers, and the Nile, having no rain, bears the burden alone [2, 4].
+
+    Research:
+    1. Searched “Nile floods in summer three explanations Greeks” · 5 found
+    2. Looked for “Nile” · 40 found
+
+    Sources:
+
+    [1] The History of Herodotus.txt · part 130
+        the whole winter season it continues to be low, and until the summer
+        solstice returns. Of none of these things was I able to receive any
+        account from the Egyptians, when I inquired of them what power the Nile
+        has whereby it is of a nature opposite to that of other rivers. And
+        I made inquiry, desiring to know both this which I say and also why,
+        unlike all other rivers, it does not give rise to any breezes blowing
+        from it.
+
+        20. However some of the Hellenes who desired to gain distinction for
+        cleverness have given an account of this water in three different ways:
+        two of these I do not think it worth while even to speak of except only
+        to indicate their nature; of which the one says that the Etesian Winds
+        are the cause that makes the river rise, by preventing the Nile from
+        flowing out into the sea. But often the Etesian Winds fail and yet the
+        Nile does the same work as it is wont to do; and moreover, if these were
+        the cause, all the other rivers also which flow in a direction opposed
+        to the Etesian Winds ought to have been affected in the same way as the
+        Nile, and even more, in as much as they are smaller and present to them
+        a feebler flow of stream: but there are many of these rivers in Syria
+        and many also in Libya, and they are affected in no such manner as the
+        Nile.
+
+        21. The second way shows more ignorance than that which has been
+        mentioned, and it is more marvellous to tell; for it says that the
+        river produces these effects because it flows from the Ocean, and that
+        the Ocean flows round the whole earth.
+
+        22. The third of the ways is much the most specious, but nevertheless it
+        is the most mistaken of all: for indeed this way has no more truth in
+        it than the rest, alleging as it does that the Nile flows from melting
+        snow; whereas it flows out of Libya through the midst of the Ethiopians,
+        and so comes out into Egypt. How then should it flow from snow, when it
+        flows from the hottest parts to those which are cooler? And indeed most
+        of the facts are such as to convince a man (one at least who is capable
+        of reasoning about such matters), that it is not at all likely that it
+        flows from snow. The first and greatest evidence is afforded by the
+        winds, which blow hot from these regions; the second is that the land
+        is rainless always and without frost, whereas after snow has fallen rain
+        must necessarily come within five days, so that if it snowed in those
+        parts rain would fall there; the third evidence is afforded by the
+        people dwelling there, who are of a black colour by reason of the
+        burning heat. Moreover kites and swallows remain there through the year
+        and do not leave the land; and cranes flying from the cold weather which
+        comes on in the region of Scythia come regularly to these parts for
+        wintering: if then it snowed ever so little in that land through which
+        the Nile flows and in which it has its rise, none of these things would
+        take place, as necessity compels us to admit.
+
+    [2] The History of Herodotus.txt · part 131
+        burning heat. Moreover kites and swallows remain there through the year
+        and do not leave the land; and cranes flying from the cold weather which
+        comes on in the region of Scythia come regularly to these parts for
+        wintering: if then it snowed ever so little in that land through which
+        the Nile flows and in which it has its rise, none of these things would
+        take place, as necessity compels us to admit.
+
+        23. As for him who talked about the Ocean, he carried his tale into the
+        region of the unknown, and so he need not be refuted; since I for my
+        part know of no river Ocean existing, but I think that Homer or one of
+        the poets who were before him invented the name and introduced it into
+        his verse.
+
+        24. If however after I have found fault with the opinions proposed, I
+        am bound to declare an opinion of my own about the matters which are in
+        doubt, I will tell what to my mind is the reason why the Nile increases
+        in the summer. In the winter season the Sun, being driven away from
+        his former path through the heaven by the stormy winds, comes to the
+        upper parts of Libya. If one would set forth the matter in the shortest
+        way, all has now been said; for whatever region this god approaches most
+        and stands directly above, this it may reasonably be supposed is most in
+        want of water, and its native streams of rivers are dried up most.
+
+        25. However, to set it forth at greater length, thus it is:—the Sun
+        passing in his course by the upper parts of Libya, does thus, that is to
+        say, since at all times the air in those parts is clear and the country
+        is warm, because there are no cold winds, in passing through it the
+        Sun does just as he was wont to do in the summer, when going through the
+        midst of the heaven, that is he draws to himself the water, and having
+        drawn it he drives it away to the upper parts of the country, and the
+        winds take it up and scattering it abroad melt it into rain; so it is
+        natural that the winds which blow from this region, namely the South
+        and South-west Winds, should be much the most rainy of all the winds. I
+        think however that the Sun does not send away from himself all the water
+        of the Nile of each year, but that he also lets some remain behind with
+        himself. Then when the winter becomes milder, the Sun returns back again
+        to the midst of the heaven, and from that time onwards he draws equally
+        from all rivers; but in the meanwhile they flow in large volume, since
+        water of rain mingles with them in great quantity, because their country
+        receives rain then and is filled with torrent streams. In summer however
+        they are weak, since not only the showers of rain fail then, but also
+        they are drawn by the Sun. The Nile however, alone of all rivers, not
+        having rain and being drawn by the Sun, naturally flows during this time
+        of winter in much less than its proper volume, that is much less than in
+        summer; for then it is drawn equally with all the other waters, but
+        in winter it bears the burden alone. Thus I suppose the Sun to be the
+        cause of these things.
+
+    [3] The History of Herodotus.txt · part 129
+        cuts the Delta through the midst and so issues out to the sea. In this
+        we have a portion of the water of the river which is not the smallest
+        nor the least famous, and it is called the Sebennytic mouth. There are
+        also two other mouths which part off from the Sebennytic and go to
+        the sea, and these are called, one the Saïtic, the other the Mendesian
+        mouth. The Bolbitinitic and Bucolic mouths, on the other hand, are not
+        natural but made by digging.
+
+        18. Moreover also the answer given by the Oracle of Ammon bears witness
+        in support of my opinion that Egypt is of the extent which I declare it
+        to be in my account; and of this answer I heard after I had formed my
+        own opinion about Egypt. For those of the city of Marea and of Apis,
+        dwelling in the parts of Egypt which border on Libya, being of opinion
+        themselves that they were Libyans and not Egyptians, and also being
+        burdened by the rules of religious service, because they desired not to
+        be debarred from the use of cows' flesh, sent to Ammon saying that they
+        had nought in common with the Egyptians, for they dwelt outside the
+        Delta and agreed with them in nothing; and they said they desired that
+        it might be lawful for them to eat everything without distinction. The
+        god however did not permit them to do so, but said that that land which
+        was Egypt which the Nile came over and watered, and that those were
+        Egyptians who dwelling below the city of Elephantine drank of that
+        river. Thus it was answered to them by the Oracle about this:
+
+        19, and the Nile, when it is in flood, goes over not only the Delta
+        but also of the land which is called Libyan and of that which is called
+        Arabian sometimes as much as two days' journey on each side, and at
+        times even more than this or at times less.
+
+        As regards the nature of the river, neither from the priests nor
+        yet from any other man was I able to obtain any knowledge: and I was
+        desirous especially to learn from them about these matters, namely
+        why the Nile comes down increasing in volume from the summer solstice
+        onwards for a hundred days, and then, when it has reached the number of
+        these days, turns and goes back, failing in its stream, so that through
+        the whole winter season it continues to be low, and until the summer
+        solstice returns. Of none of these things was I able to receive any
+        account from the Egyptians, when I inquired of them what power the Nile
+        has whereby it is of a nature opposite to that of other rivers. And
+        I made inquiry, desiring to know both this which I say and also why,
+        unlike all other rivers, it does not give rise to any breezes blowing
+        from it.
+
+    [4] The History of Herodotus.txt · part 132
+        they are weak, since not only the showers of rain fail then, but also
+        they are drawn by the Sun. The Nile however, alone of all rivers, not
+        having rain and being drawn by the Sun, naturally flows during this time
+        of winter in much less than its proper volume, that is much less than in
+        summer; for then it is drawn equally with all the other waters, but
+        in winter it bears the burden alone. Thus I suppose the Sun to be the
+        cause of these things.
+
+        26. He is also the cause in my opinion that the air in these parts is
+        dry, since he makes it so by scorching up his path through the heaven:
+        thus summer prevails always in the upper parts of Libya. If however
+        the station of the seasons had been changed, and where now in the heaven
+        are placed the North Wind and winter, there was the station of the South
+        Wind and of the midday, and where now is placed the South Wind, there
+        was the North, if this had been so, the Sun being driven from the midst
+        of the heaven by the winter and the North Wind would go to the upper
+        parts of Europe, just as now he comes to the upper parts of Libya, and
+        passing in his course throughout the whole of Europe I suppose that he
+        would do to the Ister that which he now works upon the Nile.
+
+        27. As to the breeze, why none blows from the river, my opinion is that
+        from very hot places it is not natural that anything should blow, and
+        that a breeze is wont to blow from something cold.
+
+        28. Let these matters then be as they are and as they were at the first:
+        but as to the sources of the Nile, not one either of the Egyptians or of
+        the Libyans or of the Hellenes, who came to speech with me, professed to
+        know anything, except the scribe of the sacred treasury of Athene at the
+        city of Saïs in Egypt. To me however this man seemed not to be speaking
+        seriously when he said that he had certain knowledge of it; and he said
+        as follows, namely that there were two mountains of which the tops ran
+        up to a sharp point, situated between the city of Syene, which is in
+        the district of Thebes, and Elephantine, and the names of the mountains
+        were, of the one Crophi and of the other Mophi. From the middle between
+        these two mountains flowed (he said) the sources of the Nile, which were
+        fathomless in depth, and half of the water flowed to Egypt and towards
+        the North Wind, the other half to Ethiopia and the South Wind. As for
+        the fathomless depth of the source, he said that Psammetichos king of
+        Egypt came to a trial of this matter; for he had a rope twisted of many
+        thousands of fathoms and let it down in this place, and it found no
+        bottom. By this the scribe (if this which he told me was really as he
+        said) gave me to understand that there were certain strong eddies
+        there and a backward flow, and that since the water dashed against the
+        mountains, therefore the sounding-line could not come to any bottom when
+        it was let down.
+
+    [5] The History of Herodotus.txt · part 127
+        plough nor in hoeing nor in any other of those labours which other men
+        have about a crop; but when the river has come up of itself and watered
+        their fields and after watering has left them again, then each man sows
+        his own field and turns into it swine, and when he has trodden the
+        seed into the ground by means of the swine, after that he waits for the
+        harvest; and when he has threshed the corn by means of the swine, then
+        he gathers it in.
+
+        15. If we desire to follow the opinions of the Ionians as regards Egypt,
+        who say that the Delta alone is Egypt, reckoning its sea-coast to be
+        from the watch-tower called of Perseus to the fish-curing houses of
+        Pelusion, a distance of forty schoines, and counting it to extend inland
+        as far as the city of Kercasoros, where the Nile divides and runs to
+        Pelusion and Canobos, while as for the rest of Egypt, they assign it
+        partly to Libya and partly to Arabia,—if, I say, we should follow this
+        account, we should thereby declare that in former times the Egyptians
+        had no land to live in; for, as we have seen, their Delta at any rate
+        is alluvial, and has appeared (so to speak) lately, as the Egyptians
+        themselves say and as my opinion is. If then at the first there was no
+        land for them to live in, why did they waste their labour to prove that
+        they had come into being before all other men? They needed not to have
+        made trial of the children to see what language they would first utter.
+        However I am not of opinion that the Egyptians came into being at the
+        same time as that which is called by the Ionians the Delta, but that
+        they existed always ever since the human race came into being, and that
+        as their land advanced forwards, many of them were left in their first
+        abodes and many came down gradually to the lower parts. At least it is
+        certain that in old times Thebes had the name of Egypt, and of this 23
+        the circumference measures six thousand one hundred and twenty furlongs.
+
+        16. If then we judge aright of these matters, the opinion of the Ionians
+        about Egypt is not sound: but if the judgment of the Ionians is right, I
+        declare that neither the Hellenes nor the Ionians themselves know how
+        to reckon since they say that the whole earth is made up of three
+        divisions, Europe, Asia, and Libya: for they ought to count in addition
+        to these the Delta of Egypt, since it belongs neither to Asia nor to
+        Libya; for at least it cannot be the river Nile by this reckoning which
+        divides Asia from Libya, but the Nile is cleft at the point of this
+        Delta so as to flow round it, and the result is that this land would
+        come between Asia and Libya. 25
+
+
+
