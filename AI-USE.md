@@ -2,9 +2,9 @@
 
 **AI tools and models used**
 
-HistFig application retrieved from GitHub repository created by mcjkurz
-RAG Chat model: Openrouter, GLM 5.3 Flash 
-RAG Embidding Model: Openrouter, Qwen3-Embedding-4B 
+- HistFig application retrieved from GitHub repository created by mcjkurz
+- RAG Chat model: Openrouter, GLM 5.3 Flash 
+- RAG Embidding Model: Openrouter, Qwen3-Embedding-4B 
 
 **Tasks for which AI was used**
 
