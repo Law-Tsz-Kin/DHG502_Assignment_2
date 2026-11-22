@@ -15,3 +15,4 @@
 
 - Source Acquisition & Platform Configuration: Sourced the primary txt file from the internet, and personally configured the platform by selecting `GLM 5.3 Flash` (OpenRouter) as the chat model and `Qwen3-Embedding-4B` (OpenRouter) as the embedding model, entering my API key, testing the connection, uploading the text, and conducting the conversation with the historical figure.
 - Verification & Adjustments: manually remove irrelevant information in primarary txt, including information of publisher, translator’s preference, footnotes that contain translators’ comments and copyright statement of the archive. 
+- Project Brainstorming & Paper writing: brainstorm ideas for the project, create question list for conversation, write the reflection paper based on the exported conservation, create error log
