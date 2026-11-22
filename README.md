@@ -2,7 +2,7 @@ Name: LAW Tsz Kin, Ken
 
 Course: DHG 502 Digital Approaches in Historical Research
 
-Research Question: Chatting with Herodotus with Retrieval-Augmented Generation Model 
+Research Question: Chatting with Herodotus via a Retrieval-Augmented Generation Model 
 
 Source: 
 - Herodotus. The History of Herodotus — Volume 1. Translated by G. C. Macaulay. Project Gutenberg, 2001. https://www.gutenberg.org/ebooks/2707.
